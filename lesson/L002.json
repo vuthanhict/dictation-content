@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T14:38:23.165Z",
+  "updated_at": "2026-03-10T14:38:39.986Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -15,8 +15,310 @@
     "order": 2,
     "is_active": true
   },
-  "total_sentences": 1,
+  "total_sentences": 23,
   "sentences": [
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "She has a really exciting new collection, and she’s here with us today.",
+      "sentence_vi": "Cô ấy có một bộ sưu tập mới rất thú vị và hôm nay cô ấy có mặt ở đây với chúng ta.",
+      "audio_url": "",
+      "accepted_answers": [
+        "She has a really exciting new collection and shes here with us today",
+        "she has a really exciting new collection and she's here with us today",
+        "she has a really exciting new collection and she is here with us today"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Thanks for coming to the studio, Stella. We’re very happy to see you.",
+      "sentence_vi": "Cảm ơn Stella đã đến phòng thu. Chúng tôi rất vui khi được gặp bạn.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Thanks for coming to the studio Stella we are very happy to see you",
+        "thanks for coming to the studio stella we're very happy to see you"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Oh, it’s my pleasure.",
+      "sentence_vi": "Ồ, đó là niềm vinh hạnh của tôi.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Oh its my pleasure",
+        "oh it's my pleasure",
+        "oh it is my pleasure"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "OK, let me ask you some questions.",
+      "sentence_vi": "Được rồi, để tôi hỏi bạn vài câu.",
+      "audio_url": "",
+      "accepted_answers": [
+        "OK let me ask you some questions",
+        "ok let me ask you some questions"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "First, we all know you as “Stella.”",
+      "sentence_vi": "Trước hết, tất cả chúng tôi đều biết bạn với tên “Stella”.",
+      "audio_url": "",
+      "accepted_answers": [
+        "First we all know you as Stella",
+        "first we all know you as stella"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "W-w-what’s your last name?",
+      "sentence_vi": "Họ của bạn là gì?",
+      "audio_url": "",
+      "accepted_answers": [
+        "Whats your last name",
+        "what's your last name",
+        "what is your last name"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "It’s Kim. My name is Stella Kim.",
+      "sentence_vi": "Là Kim. Tên tôi là Stella Kim.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Its Kim my name is Stella Kim",
+        "it's kim my name is stella kim",
+        "it is kim my name is stella kim"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Hmm. I guess just “Stella” is easier to remember! Where are you from?",
+      "sentence_vi": "Hmm. Tôi đoán chỉ “Stella” thì dễ nhớ hơn! Bạn đến từ đâu?",
+      "audio_url": "",
+      "accepted_answers": [
+        "I guess just Stella is easier to remember where are you from",
+        "i guess just stella is easier to remember where are you from"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Oh...uh...I’m originally from Toronto.",
+      "sentence_vi": "Ồ… ừm… Tôi vốn đến từ Toronto.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Im originally from Toronto",
+        "i'm originally from toronto",
+        "i am originally from toronto"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Oh. Where do you live? Do you still live in Canada?",
+      "sentence_vi": "Ồ. Bạn sống ở đâu? Bạn vẫn sống ở Canada chứ?",
+      "audio_url": "",
+      "accepted_answers": [
+        "Where do you live do you still live in Canada",
+        "where do you live do you still live in canada"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "No, I live in Paris now. But my family still lives in Toronto.",
+      "sentence_vi": "Không, bây giờ tôi sống ở Paris. Nhưng gia đình tôi vẫn sống ở Toronto.",
+      "audio_url": "",
+      "accepted_answers": [
+        "No I live in Paris now but my family still lives in Toronto",
+        "no i live in paris now but my family still lives in toronto"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "I see. Well, Stella, where do you work?",
+      "sentence_vi": "Tôi hiểu rồi. Stella, bạn làm việc ở đâu?",
+      "audio_url": "",
+      "accepted_answers": [
+        "I see well Stella where do you work",
+        "i see well stella where do you work"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Uh...well, I guess I work mainly in France. My company is in Paris.",
+      "sentence_vi": "Ừm… tôi nghĩ là tôi chủ yếu làm việc ở Pháp. Công ty của tôi ở Paris.",
+      "audio_url": "",
+      "accepted_answers": [
+        "I guess I work mainly in France my company is in Paris",
+        "i guess i work mainly in france my company is in paris"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "And what do you do in your free time?",
+      "sentence_vi": "Và bạn làm gì vào thời gian rảnh?",
+      "audio_url": "",
+      "accepted_answers": [
+        "And what do you do in your free time",
+        "and what do you do in your free time"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Hmm... Well, I love to travel. Oh, and I read a lot.",
+      "sentence_vi": "Hmm… Tôi thích đi du lịch. À, và tôi đọc sách rất nhiều.",
+      "audio_url": "",
+      "accepted_answers": [
+        "I love to travel and I read a lot",
+        "i love to travel and i read a lot"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Interesting. And what’s your favorite kind of music?",
+      "sentence_vi": "Thú vị đấy. Và loại nhạc yêu thích của bạn là gì?",
+      "audio_url": "",
+      "accepted_answers": [
+        "And whats your favorite kind of music",
+        "and what's your favorite kind of music",
+        "and what is your favorite kind of music"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "I like all kinds of music, really. But, uh, well, I would say classical music is my favorite.",
+      "sentence_vi": "Tôi thích mọi thể loại nhạc. Nhưng có lẽ nhạc cổ điển là yêu thích nhất của tôi.",
+      "audio_url": "",
+      "accepted_answers": [
+        "I like all kinds of music really but I would say classical music is my favorite",
+        "i like all kinds of music really but i would say classical music is my favorite"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Really. OK, Stella. Oh! Well, I’m afraid we’re just about out of time.",
+      "sentence_vi": "Thật vậy sao. Được rồi Stella. Ồ! Có vẻ như chúng ta sắp hết thời gian rồi.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Im afraid we are just about out of time",
+        "i'm afraid we're just about out of time",
+        "i am afraid we are just about out of time"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "Thanks again for being a guest on our program.",
+      "sentence_vi": "Cảm ơn bạn một lần nữa vì đã tham gia chương trình của chúng tôi.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Thanks again for being a guest on our program",
+        "thanks again for being a guest on our program"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "You’re welcome!",
+      "sentence_vi": "Không có gì!",
+      "audio_url": "",
+      "accepted_answers": [
+        "Youre welcome",
+        "you're welcome",
+        "you are welcome"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 0,
+      "sentence_en": "And if you want to see Stella’s designs, go to our Web site. That’s www.radio23...",
+      "sentence_vi": "Và nếu bạn muốn xem các thiết kế của Stella, hãy truy cập trang web của chúng tôi. Đó là www.radio23...",
+      "audio_url": "",
+      "accepted_answers": [
+        "If you want to see Stellas designs go to our web site thats www radio23",
+        "if you want to see stella's designs go to our web site thats www radio23"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
     {
       "sentence_id": "S001",
       "lesson_id": "L002",
@@ -24,7 +326,26 @@
       "sentence_en": "Now it’s time for my guest.",
       "sentence_vi": "Bây giờ là lúc giới thiệu vị khách của tôi.",
       "audio_url": "",
-      "accepted_answers": [],
+      "accepted_answers": [
+        "Now its time for my guest",
+        "now it's time for my guest",
+        "now it is time for my guest"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 2,
+      "sentence_en": "It’s Stella, the fashion designer.",
+      "sentence_vi": "Đó là Stella, nhà thiết kế thời trang.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Its Stella the fashion designer",
+        "it's stella the fashion designer",
+        "it is stella the fashion designer"
+      ],
       "compare_mode": "flexible",
       "is_active": true
     }
