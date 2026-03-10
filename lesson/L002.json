@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T14:38:16.979Z",
+  "updated_at": "2026-03-10T14:38:23.165Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -21,8 +21,8 @@
       "sentence_id": "S001",
       "lesson_id": "L002",
       "order": 1,
-      "sentence_en": "",
-      "sentence_vi": "",
+      "sentence_en": "Now it’s time for my guest.",
+      "sentence_vi": "Bây giờ là lúc giới thiệu vị khách của tôi.",
       "audio_url": "",
       "accepted_answers": [],
       "compare_mode": "flexible",
