@@ -1,0 +1,32 @@
+{
+  "updated_at": "2026-03-10T09:54:18.282Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L002",
+    "topic_id": "T01",
+    "lesson_title": "Asking for Help",
+    "difficulty": "easy",
+    "order": 2,
+    "is_active": true
+  },
+  "total_sentences": 1,
+  "sentences": [
+    {
+      "sentence_id": "S003",
+      "lesson_id": "L002",
+      "order": 1,
+      "sentence_en": "Could you help me with this?",
+      "sentence_vi": "Bạn có thể giúp tôi việc này không?",
+      "audio_url": "https://cdn.site/audio/s003.mp3",
+      "accepted_answers": [],
+      "compare_mode": "strict",
+      "is_active": true
+    }
+  ]
+}
