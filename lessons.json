@@ -1,0 +1,30 @@
+{
+  "updated_at": "2026-03-10T09:54:18.282Z",
+  "total_lessons": 3,
+  "items": [
+    {
+      "lesson_id": "L001",
+      "topic_id": "T01",
+      "lesson_title": "Greeting People",
+      "difficulty": "easy",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "lesson_id": "L003",
+      "topic_id": "T02",
+      "lesson_title": "At the Airport",
+      "difficulty": "medium",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "lesson_id": "L002",
+      "topic_id": "T01",
+      "lesson_title": "Asking for Help",
+      "difficulty": "easy",
+      "order": 2,
+      "is_active": true
+    }
+  ]
+}
