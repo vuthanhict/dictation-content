@@ -1,0 +1,50 @@
+{
+  "updated_at": "2026-03-10T09:54:18.282Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L001",
+    "topic_id": "T01",
+    "lesson_title": "Greeting People",
+    "difficulty": "easy",
+    "order": 1,
+    "is_active": true
+  },
+  "total_sentences": 2,
+  "sentences": [
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 1,
+      "sentence_en": "Hello, how are you today?",
+      "sentence_vi": "Xin chào, hôm nay bạn thế nào?",
+      "audio_url": "https://cdn.site/audio/s001.mp3",
+      "accepted_answers": [
+        "Hello how are you today",
+        "hello how are you today"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S002",
+      "lesson_id": "L001",
+      "order": 2,
+      "sentence_en": "I'm doing well, thank you.",
+      "sentence_vi": "Tôi vẫn khỏe, cảm ơn bạn.",
+      "audio_url": "https://cdn.site/audio/s002.mp3",
+      "accepted_answers": [
+        "I'm doing well thank you",
+        "im doing well thank you",
+        "i am doing well thank you"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
+}
