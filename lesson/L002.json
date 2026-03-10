@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T14:39:31.235Z",
+  "updated_at": "2026-03-10T15:02:26.368Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -15,7 +15,7 @@
     "order": 2,
     "is_active": true
   },
-  "total_sentences": 23,
+  "total_sentences": 24,
   "sentences": [
     {
       "sentence_id": "S001",
@@ -281,8 +281,8 @@
       "sentence_id": "S001",
       "lesson_id": "L002",
       "order": 19,
-      "sentence_en": "I like all kinds of music, really. But, uh, well, I would say classical music is my favorite.",
-      "sentence_vi": "Tôi thích mọi thể loại nhạc. Nhưng có lẽ nhạc cổ điển là yêu thích nhất của tôi.",
+      "sentence_en": "I like all kinds of music, really.",
+      "sentence_vi": "Tôi thích mọi thể loại nhạc.",
       "audio_url": "",
       "accepted_answers": [
         "I like all kinds of music really but I would say classical music is my favorite",
@@ -295,6 +295,17 @@
       "sentence_id": "S001",
       "lesson_id": "L002",
       "order": 20,
+      "sentence_en": "But, uh, well, I would say classical music is my favorite.",
+      "sentence_vi": "Nhưng có lẽ nhạc cổ điển là yêu thích nhất của tôi.",
+      "audio_url": "",
+      "accepted_answers": [],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L002",
+      "order": 21,
       "sentence_en": "Really. OK, Stella. Oh! Well, I’m afraid we’re just about out of time.",
       "sentence_vi": "Thật vậy sao. Được rồi Stella. Ồ! Có vẻ như chúng ta sắp hết thời gian rồi.",
       "audio_url": "",
@@ -309,7 +320,7 @@
     {
       "sentence_id": "S001",
       "lesson_id": "L002",
-      "order": 21,
+      "order": 22,
       "sentence_en": "Thanks again for being a guest on our program.",
       "sentence_vi": "Cảm ơn bạn một lần nữa vì đã tham gia chương trình của chúng tôi.",
       "audio_url": "",
@@ -323,7 +334,7 @@
     {
       "sentence_id": "S001",
       "lesson_id": "L002",
-      "order": 22,
+      "order": 23,
       "sentence_en": "You’re welcome!",
       "sentence_vi": "Không có gì!",
       "audio_url": "",
@@ -338,7 +349,7 @@
     {
       "sentence_id": "S001",
       "lesson_id": "L002",
-      "order": 23,
+      "order": 24,
       "sentence_en": "And if you want to see Stella’s designs, go to our Web site. That’s www.radio23...",
       "sentence_vi": "Và nếu bạn muốn xem các thiết kế của Stella, hãy truy cập trang web của chúng tôi. Đó là www.radio23...",
       "audio_url": "",
