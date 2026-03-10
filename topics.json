@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-03-10T09:54:18.282Z",
+  "total_topics": 3,
+  "items": [
+    {
+      "topic_id": "T01",
+      "topic_name": "Let Talk 1",
+      "description": "Let Talk 1 conversations",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "topic_id": "T02",
+      "topic_name": "Travel English",
+      "description": "English for traveling abroad",
+      "order": 2,
+      "is_active": true
+    },
+    {
+      "topic_id": "T03",
+      "topic_name": "Business English",
+      "description": "Workplace communication",
+      "order": 3,
+      "is_active": true
+    }
+  ]
+}
