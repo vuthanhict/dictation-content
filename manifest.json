@@ -1,0 +1,19 @@
+{
+  "updated_at": "2026-03-10T09:54:18.282Z",
+  "counts": {
+    "topics": 3,
+    "lessons": 3,
+    "sentences": 3
+  },
+  "files": [
+    "index.json",
+    "lesson/L001.json",
+    "lesson/L002.json",
+    "lesson/L003.json",
+    "lessons-by-topic/T01.json",
+    "lessons-by-topic/T02.json",
+    "lessons-by-topic/T03.json",
+    "lessons.json",
+    "topics.json"
+  ]
+}
