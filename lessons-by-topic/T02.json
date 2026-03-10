@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-03-10T09:54:18.282Z",
+  "topic": {
+    "topic_id": "T02",
+    "topic_name": "Travel English",
+    "description": "English for traveling abroad",
+    "order": 2,
+    "is_active": true
+  },
+  "total_lessons": 1,
+  "items": [
+    {
+      "lesson_id": "L003",
+      "topic_id": "T02",
+      "lesson_title": "At the Airport",
+      "difficulty": "medium",
+      "order": 1,
+      "is_active": true
+    }
+  ]
+}
