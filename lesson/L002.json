@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T15:02:26.368Z",
+  "updated_at": "2026-03-10T15:02:42.445Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -285,7 +285,7 @@
       "sentence_vi": "Tôi thích mọi thể loại nhạc.",
       "audio_url": "",
       "accepted_answers": [
-        "I like all kinds of music really but I would say classical music is my favorite",
+        "I like all kinds of music really",
         "i like all kinds of music really but i would say classical music is my favorite"
       ],
       "compare_mode": "flexible",
@@ -298,7 +298,9 @@
       "sentence_en": "But, uh, well, I would say classical music is my favorite.",
       "sentence_vi": "Nhưng có lẽ nhạc cổ điển là yêu thích nhất của tôi.",
       "audio_url": "",
-      "accepted_answers": [],
+      "accepted_answers": [
+        "But I would say classical music is my favorite"
+      ],
       "compare_mode": "flexible",
       "is_active": true
     },
