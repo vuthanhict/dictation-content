@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T15:02:42.445Z",
+  "updated_at": "2026-03-10T15:02:53.195Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -286,7 +286,7 @@
       "audio_url": "",
       "accepted_answers": [
         "I like all kinds of music really",
-        "i like all kinds of music really but i would say classical music is my favorite"
+        "i like all kinds of music really"
       ],
       "compare_mode": "flexible",
       "is_active": true
@@ -299,7 +299,8 @@
       "sentence_vi": "Nhưng có lẽ nhạc cổ điển là yêu thích nhất của tôi.",
       "audio_url": "",
       "accepted_answers": [
-        "But I would say classical music is my favorite"
+        "But I would say classical music is my favorite",
+        "but i would say classical music is my favorite"
       ],
       "compare_mode": "flexible",
       "is_active": true
