@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T09:55:29.975Z",
+  "updated_at": "2026-03-10T10:15:32.438Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -10,38 +10,251 @@
   "lesson": {
     "lesson_id": "L001",
     "topic_id": "T01",
-    "lesson_title": "Greeting People",
+    "lesson_title": "A Found Cat",
     "difficulty": "easy",
     "order": 1,
     "is_active": true
   },
-  "total_sentences": 2,
+  "total_sentences": 17,
   "sentences": [
     {
       "sentence_id": "S001",
       "lesson_id": "L001",
       "order": 1,
-      "sentence_en": "Hello, how are you today?",
-      "sentence_vi": "Xin chào, hôm nay bạn thế nào?",
-      "audio_url": "https://cdn.site/audio/s001.mp3",
+      "sentence_en": "Can you help me, please?",
+      "sentence_vi": "Bạn có thể giúp tôi được không?",
+      "audio_url": "",
       "accepted_answers": [
-        "Hello how are you today",
-        "hello how are you today"
+        "Can you help me please",
+        "can you help me please"
       ],
       "compare_mode": "flexible",
       "is_active": true
     },
     {
-      "sentence_id": "S002",
+      "sentence_id": "S001",
       "lesson_id": "L001",
       "order": 2,
-      "sentence_en": "I'm doing well, thank you.",
-      "sentence_vi": "Tôi vẫn khỏe, cảm ơn bạn.",
-      "audio_url": "https://cdn.site/audio/s002.mp3",
+      "sentence_en": "Yes?",
+      "sentence_vi": "Vâng?",
+      "audio_url": "",
       "accepted_answers": [
-        "I'm doing well thank you",
-        "im doing well thank you",
-        "i am doing well thank you"
+        "Yes",
+        "yes"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 3,
+      "sentence_en": "I found this, uh, cat in...in my kitchen.",
+      "sentence_vi": "Tôi tìm thấy con mèo này, ừm… trong bếp của tôi.",
+      "audio_url": "",
+      "accepted_answers": [
+        "I found this cat in my kitchen",
+        "i found this cat in my kitchen"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 4,
+      "sentence_en": "You want to report a lost cat?",
+      "sentence_vi": "Bạn muốn báo cáo một con mèo bị lạc à?",
+      "audio_url": "",
+      "accepted_answers": [
+        "You want to report a lost cat",
+        "you want to report a lost cat"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 5,
+      "sentence_en": "No, I found a cat. I think someone probably wants this cat back.",
+      "sentence_vi": "Không, tôi tìm thấy một con mèo. Tôi nghĩ chắc ai đó muốn nhận lại con mèo này.",
+      "audio_url": "",
+      "accepted_answers": [
+        "No I found a cat I think someone probably wants this cat back",
+        "no i found a cat i think someone probably wants this cat back"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 6,
+      "sentence_en": "All right. We need to fill out a form.... Your name?",
+      "sentence_vi": "Được rồi. Chúng ta cần điền vào một mẫu đơn. Tên của anh?",
+      "audio_url": "",
+      "accepted_answers": [
+        "All right we need to fill out a form your name",
+        "alright we need to fill out a form your name"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 7,
+      "sentence_en": "It’s Edwin Horowitz.",
+      "sentence_vi": "Tôi là Edwin Horowitz.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Its Edwin Horowitz",
+        "it's Edwin Horowitz",
+        "it is Edwin Horowitz"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 8,
+      "sentence_en": "Uh, can you spell that, please?",
+      "sentence_vi": "Ờ, anh có thể đánh vần giúp tôi được không?",
+      "audio_url": "",
+      "accepted_answers": [
+        "Can you spell that please",
+        "can you spell that please"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 9,
+      "sentence_en": "Sure. Edwin: E-D-W-I-N. And last name, H-O-R-O-W-I-T-Z.",
+      "sentence_vi": "Được. Edwin: E-D-W-I-N. Và họ là H-O-R-O-W-I-T-Z.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Sure Edwin E D W I N and last name H O R O W I T Z",
+        "sure edwin e d w i n and last name h o r o w i t z"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 10,
+      "sentence_en": "OK. And what's the cat’s name?",
+      "sentence_vi": "Được rồi. Và tên của con mèo là gì?",
+      "audio_url": "",
+      "accepted_answers": [
+        "OK and whats the cats name",
+        "ok and whats the cats name",
+        "ok and what is the cats name"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 11,
+      "sentence_en": "The cat’s name? I don’t know.",
+      "sentence_vi": "Tên con mèo à? Tôi không biết.",
+      "audio_url": "",
+      "accepted_answers": [
+        "The cats name I dont know",
+        "the cats name i dont know",
+        "the cat's name i don't know"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 12,
+      "sentence_en": "Is there a tag? Look at the tag around its neck.",
+      "sentence_vi": "Có thẻ không? Hãy nhìn vào chiếc thẻ quanh cổ nó.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Is there a tag look at the tag around its neck",
+        "is there a tag look at the tag around its neck"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 13,
+      "sentence_en": "Oh. Um...OK. Let’s see. It’s...Tiny: T-I-N-Y.",
+      "sentence_vi": "Ồ. Ừm… Để xem nào. Nó là… Tiny: T-I-N-Y.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Lets see its Tiny T I N Y",
+        "let's see its tiny t i n y"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 14,
+      "sentence_en": "Oh, what a cute name!",
+      "sentence_vi": "Ôi, cái tên dễ thương quá!",
+      "audio_url": "",
+      "accepted_answers": [
+        "Oh what a cute name",
+        "oh what a cute name"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 15,
+      "sentence_en": "Yeah, whatever. OK, so can I leave the cat here, officer?",
+      "sentence_vi": "Ừ, sao cũng được. Vậy tôi có thể để con mèo lại đây được không, thưa cảnh sát?",
+      "audio_url": "",
+      "accepted_answers": [
+        "Yeah whatever ok so can I leave the cat here officer",
+        "yeah whatever ok so can i leave the cat here officer"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 16,
+      "sentence_en": "Sure. I’ll take care of it.",
+      "sentence_vi": "Được thôi. Tôi sẽ chăm sóc nó.",
+      "audio_url": "",
+      "accepted_answers": [
+        "Sure Ill take care of it",
+        "sure i'll take care of it",
+        "sure i will take care of it"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S001",
+      "lesson_id": "L001",
+      "order": 17,
+      "sentence_en": "Thanks very much!",
+      "sentence_vi": "Cảm ơn rất nhiều!",
+      "audio_url": "",
+      "accepted_answers": [
+        "Thanks very much",
+        "thanks very much"
       ],
       "compare_mode": "flexible",
       "is_active": true
