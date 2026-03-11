@@ -1,20 +1,78 @@
 {
-  "updated_at": "2026-03-10T16:21:10.623Z",
+  "updated_at": "2026-03-11T17:26:36.823Z",
   "topic": {
     "topic_id": "T02",
-    "topic_name": "Travel English",
-    "description": "English for traveling abroad",
+    "topic_name": "Job Interview",
+    "description": "Job Interview",
     "order": 2,
     "is_active": true
   },
   "lesson": {
     "lesson_id": "L003",
     "topic_id": "T02",
-    "lesson_title": "At the Airport",
+    "lesson_title": "",
     "difficulty": "medium",
     "order": 1,
     "is_active": true
   },
-  "total_sentences": 0,
-  "sentences": []
+  "total_sentences": 4,
+  "sentences": [
+    {
+      "sentence_id": "S042",
+      "lesson_id": "L003",
+      "order": 1,
+      "sentence_en": "What makes you suitable for this position?",
+      "sentence_vi": "Điều gì khiến bạn phù hợp với vị trí này?",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/interview1/1.wav",
+      "accepted_answers": [
+        "What makes you suitable for this position",
+        "what makes you suitable for this position"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S043",
+      "lesson_id": "L003",
+      "order": 2,
+      "sentence_en": "I believe I’m suitable for this role because I combine technical understanding with strong leadership experience.",
+      "sentence_vi": "Tôi tin rằng mình phù hợp với vai trò này vì tôi kết hợp được hiểu biết kỹ thuật với kinh nghiệm lãnh đạo vững chắc.",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/interview1/2.wav",
+      "accepted_answers": [
+        "I believe Im suitable for this role because I combine technical understanding with strong leadership experience",
+        "i believe i'm suitable for this role because i combine technical understanding with strong leadership experience",
+        "i believe i am suitable for this role because i combine technical understanding with strong leadership experience"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S044",
+      "lesson_id": "L003",
+      "order": 3,
+      "sentence_en": "I have managed multiple teams, ensured project delivery aligned with business goals, and focused on building strong teams and scalable processes.",
+      "sentence_vi": "Tôi đã quản lý nhiều nhóm, đảm bảo việc bàn giao dự án phù hợp với mục tiêu kinh doanh, và tập trung xây dựng các đội ngũ mạnh cùng quy trình có thể mở rộng.",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/interview1/3.wav",
+      "accepted_answers": [
+        "I have managed multiple teams ensured project delivery aligned with business goals and focused on building strong teams and scalable processes",
+        "i have managed multiple teams ensured project delivery aligned with business goals and focused on building strong teams and scalable processes"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S045",
+      "lesson_id": "L003",
+      "order": 4,
+      "sentence_en": "I believe these experiences allow me to contribute effectively as a Division Manager.",
+      "sentence_vi": "Tôi tin rằng những kinh nghiệm này cho phép tôi đóng góp hiệu quả với vai trò Division Manager.",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/interview1/4.wav",
+      "accepted_answers": [
+        "I believe these experiences allow me to contribute effectively as a Division Manager",
+        "i believe these experiences allow me to contribute effectively as a division manager"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
 }
