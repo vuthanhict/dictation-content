@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T16:21:10.623Z",
+  "updated_at": "2026-03-11T17:26:36.823Z",
   "total_lessons": 3,
   "items": [
     {
@@ -13,7 +13,7 @@
     {
       "lesson_id": "L003",
       "topic_id": "T02",
-      "lesson_title": "At the Airport",
+      "lesson_title": "",
       "difficulty": "medium",
       "order": 1,
       "is_active": true
