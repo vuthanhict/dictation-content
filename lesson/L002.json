@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-10T16:21:10.623Z",
+  "updated_at": "2026-03-11T17:26:36.823Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -18,7 +18,7 @@
   "total_sentences": 24,
   "sentences": [
     {
-      "sentence_id": "S001",
+      "sentence_id": "S018",
       "lesson_id": "L002",
       "order": 1,
       "sentence_en": "Now it’s time for my guest.",
@@ -33,7 +33,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S019",
       "lesson_id": "L002",
       "order": 2,
       "sentence_en": "It’s Stella, the fashion designer.",
@@ -48,7 +48,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S020",
       "lesson_id": "L002",
       "order": 3,
       "sentence_en": "She has a really exciting new collection, and she’s here with us today.",
@@ -63,7 +63,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S021",
       "lesson_id": "L002",
       "order": 4,
       "sentence_en": "Thanks for coming to the studio, Stella. We’re very happy to see you.",
@@ -77,7 +77,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S022",
       "lesson_id": "L002",
       "order": 5,
       "sentence_en": "Oh, it’s my pleasure.",
@@ -92,7 +92,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S023",
       "lesson_id": "L002",
       "order": 6,
       "sentence_en": "OK, let me ask you some questions.",
@@ -106,7 +106,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S024",
       "lesson_id": "L002",
       "order": 7,
       "sentence_en": "First, we all know you as “Stella.”",
@@ -120,7 +120,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S025",
       "lesson_id": "L002",
       "order": 8,
       "sentence_en": "W-w-what’s your last name?",
@@ -135,7 +135,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S026",
       "lesson_id": "L002",
       "order": 9,
       "sentence_en": "It’s Kim. My name is Stella Kim.",
@@ -150,7 +150,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S027",
       "lesson_id": "L002",
       "order": 10,
       "sentence_en": "Hmm. I guess just “Stella” is easier to remember! Where are you from?",
@@ -164,7 +164,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S028",
       "lesson_id": "L002",
       "order": 11,
       "sentence_en": "Oh...uh...I’m originally from Toronto.",
@@ -179,7 +179,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S029",
       "lesson_id": "L002",
       "order": 12,
       "sentence_en": "Oh. Where do you live? Do you still live in Canada?",
@@ -193,7 +193,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S030",
       "lesson_id": "L002",
       "order": 13,
       "sentence_en": "No, I live in Paris now. But my family still lives in Toronto.",
@@ -207,7 +207,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S031",
       "lesson_id": "L002",
       "order": 14,
       "sentence_en": "I see. Well, Stella, where do you work?",
@@ -221,7 +221,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S032",
       "lesson_id": "L002",
       "order": 15,
       "sentence_en": "Uh...well, I guess I work mainly in France. My company is in Paris.",
@@ -235,7 +235,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S033",
       "lesson_id": "L002",
       "order": 16,
       "sentence_en": "And what do you do in your free time?",
@@ -249,7 +249,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S034",
       "lesson_id": "L002",
       "order": 17,
       "sentence_en": "Hmm... Well, I love to travel. Oh, and I read a lot.",
@@ -263,7 +263,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S035",
       "lesson_id": "L002",
       "order": 18,
       "sentence_en": "Interesting. And what’s your favorite kind of music?",
@@ -278,7 +278,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S036",
       "lesson_id": "L002",
       "order": 19,
       "sentence_en": "I like all kinds of music, really.",
@@ -292,7 +292,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S037",
       "lesson_id": "L002",
       "order": 20,
       "sentence_en": "But, uh, well, I would say classical music is my favorite.",
@@ -306,7 +306,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S038",
       "lesson_id": "L002",
       "order": 21,
       "sentence_en": "Really. OK, Stella. Oh! Well, I’m afraid we’re just about out of time.",
@@ -321,7 +321,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S039",
       "lesson_id": "L002",
       "order": 22,
       "sentence_en": "Thanks again for being a guest on our program.",
@@ -335,7 +335,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S040",
       "lesson_id": "L002",
       "order": 23,
       "sentence_en": "You’re welcome!",
@@ -350,7 +350,7 @@
       "is_active": true
     },
     {
-      "sentence_id": "S001",
+      "sentence_id": "S041",
       "lesson_id": "L002",
       "order": 24,
       "sentence_en": "And if you want to see Stella’s designs, go to our Web site. That’s www.radio23...",
