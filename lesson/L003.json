@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T17:28:18.154Z",
+  "updated_at": "2026-03-12T15:57:16.993Z",
   "topic": {
     "topic_id": "T02",
     "topic_name": "Job Interview",
@@ -23,6 +23,7 @@
       "order": 1,
       "sentence_en": "What makes you suitable for this position?",
       "sentence_vi": "Điều gì khiến bạn phù hợp với vị trí này?",
+      "sentence_ipa": "/wʌt meɪks ju ˈsutəbəl fər ðɪs pəˈzɪʃən/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/interview1/1.wav",
       "accepted_answers": [
         "What makes you suitable for this position",
@@ -37,6 +38,7 @@
       "order": 2,
       "sentence_en": "I believe I’m suitable for this role because I combine technical understanding with strong leadership experience.",
       "sentence_vi": "Tôi tin rằng mình phù hợp với vai trò này vì tôi kết hợp được hiểu biết kỹ thuật với kinh nghiệm lãnh đạo vững chắc.",
+      "sentence_ipa": "/aɪ bəˈliv aɪm ˈsutəbəl fər ðɪs roʊl bɪˈkɔz aɪ kəmˈbaɪn ˈtɛknɪkəl ˌʌndərˈstændɪŋ wɪð strɔŋ ˈlidərʃɪp ɪkˈspɪriəns/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/interview1/2.wav",
       "accepted_answers": [
         "I believe Im suitable for this role because I combine technical understanding with strong leadership experience",
@@ -52,6 +54,7 @@
       "order": 3,
       "sentence_en": "I have managed multiple teams, ensured project delivery aligned with business goals, and focused on building strong teams and scalable processes.",
       "sentence_vi": "Tôi đã quản lý nhiều nhóm, đảm bảo việc bàn giao dự án phù hợp với mục tiêu kinh doanh, và tập trung xây dựng các đội ngũ mạnh cùng quy trình có thể mở rộng.",
+      "sentence_ipa": "/aɪ hæv ˈmænɪdʒd ˈmʌltəpəl timz ɪnˈʃʊrd ˈprɑdʒɛkt dɪˈlɪvəri əˈlaɪnd wɪð ˈbɪznəs ɡoʊlz ænd ˈfoʊkəst ɑn ˈbɪldɪŋ strɔŋ timz ænd ˈskeɪləbəl ˈprɑsɛsɪz/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/interview1/3.wav",
       "accepted_answers": [
         "I have managed multiple teams ensured project delivery aligned with business goals and focused on building strong teams and scalable processes",
@@ -66,6 +69,7 @@
       "order": 4,
       "sentence_en": "I believe these experiences allow me to contribute effectively as a Division Manager.",
       "sentence_vi": "Tôi tin rằng những kinh nghiệm này cho phép tôi đóng góp hiệu quả với vai trò Division Manager.",
+      "sentence_ipa": "/aɪ bəˈliv ðiz ɪkˈspɪriənsɪz əˈlaʊ mi tə kənˈtrɪbjut ɪˈfɛktɪvli æz ə dɪˈvɪʒən ˈmænɪdʒər/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/interview1/4.wav",
       "accepted_answers": [
         "I believe these experiences allow me to contribute effectively as a Division Manager",
