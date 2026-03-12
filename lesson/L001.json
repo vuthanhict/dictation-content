@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T17:28:18.154Z",
+  "updated_at": "2026-03-12T15:57:16.993Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -23,6 +23,7 @@
       "order": 1,
       "sentence_en": "Can you help me, please?",
       "sentence_vi": "Bạn có thể giúp tôi được không?",
+      "sentence_ipa": "/kən juː help miː pliːz/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/1.mp3",
       "accepted_answers": [
         "Can you help me please",
@@ -37,6 +38,7 @@
       "order": 2,
       "sentence_en": "Yes?",
       "sentence_vi": "Vâng?",
+      "sentence_ipa": "/jes/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/2.mp3",
       "accepted_answers": [
         "Yes",
@@ -51,6 +53,7 @@
       "order": 3,
       "sentence_en": "I found this, uh, cat in...in my kitchen.",
       "sentence_vi": "Tôi tìm thấy con mèo này, ừm… trong bếp của tôi.",
+      "sentence_ipa": "/aɪ faʊnd ðɪs ə kæt ɪn ɪn maɪ ˈkɪtʃən/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/3.mp3",
       "accepted_answers": [
         "I found this cat in my kitchen",
@@ -65,6 +68,7 @@
       "order": 4,
       "sentence_en": "You want to report a lost cat?",
       "sentence_vi": "Bạn muốn báo cáo một con mèo bị lạc à?",
+      "sentence_ipa": "/juː wɒnt tə rɪˈpɔːt ə lɒst kæt/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/4.mp3",
       "accepted_answers": [
         "You want to report a lost cat",
@@ -79,6 +83,7 @@
       "order": 5,
       "sentence_en": "No, I found a cat. I think someone probably wants this cat back.",
       "sentence_vi": "Không, tôi tìm thấy một con mèo. Tôi nghĩ chắc ai đó muốn nhận lại con mèo này.",
+      "sentence_ipa": "/nəʊ aɪ faʊnd ə kæt aɪ θɪŋk ˈsʌmwʌn ˈprɒbəbli wɒnts ðɪs kæt bæk/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/5.mp3",
       "accepted_answers": [
         "No I found a cat I think someone probably wants this cat back",
@@ -93,6 +98,7 @@
       "order": 6,
       "sentence_en": "All right. We need to fill out a form.... Your name?",
       "sentence_vi": "Được rồi. Chúng ta cần điền vào một mẫu đơn. Tên của anh?",
+      "sentence_ipa": "/ɔːl raɪt wiː niːd tə fɪl aʊt ə fɔːm jɔː neɪm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/6.mp3",
       "accepted_answers": [
         "All right we need to fill out a form your name",
@@ -107,6 +113,7 @@
       "order": 7,
       "sentence_en": "It’s Edwin Horowitz.",
       "sentence_vi": "Tôi là Edwin Horowitz.",
+      "sentence_ipa": "/ɪts ˈedwɪn ˈhɒrəwɪts/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/7.mp3",
       "accepted_answers": [
         "Its Edwin Horowitz",
@@ -122,6 +129,7 @@
       "order": 8,
       "sentence_en": "Uh, can you spell that, please?",
       "sentence_vi": "Ờ, anh có thể đánh vần giúp tôi được không?",
+      "sentence_ipa": "/ə kən juː spel ðæt pliːz/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/8.mp3",
       "accepted_answers": [
         "Can you spell that please",
@@ -136,6 +144,7 @@
       "order": 9,
       "sentence_en": "Sure. Edwin: E-D-W-I-N. And last name, H-O-R-O-W-I-T-Z.",
       "sentence_vi": "Được. Edwin: E-D-W-I-N. Và họ là H-O-R-O-W-I-T-Z.",
+      "sentence_ipa": "/ʃɔː ˈedwɪn iː diː ˈdʌbəljuː aɪ en ænd lɑːst neɪm eɪtʃ əʊ ɑː rəʊ ˈdʌbəljuː aɪ tiː zed/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/9.mp3",
       "accepted_answers": [
         "Sure Edwin E D W I N and last name H O R O W I T Z",
@@ -150,6 +159,7 @@
       "order": 10,
       "sentence_en": "OK. And what's the cat’s name?",
       "sentence_vi": "Được rồi. Và tên của con mèo là gì?",
+      "sentence_ipa": "/əʊˈkeɪ ænd wɒts ðə kæts neɪm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/10.mp3",
       "accepted_answers": [
         "OK and whats the cats name",
@@ -165,6 +175,7 @@
       "order": 11,
       "sentence_en": "The cat’s name? I don’t know.",
       "sentence_vi": "Tên con mèo à? Tôi không biết.",
+      "sentence_ipa": "/ðə kæts neɪm aɪ dəʊnt nəʊ/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/11.mp3",
       "accepted_answers": [
         "The cats name I dont know",
@@ -180,6 +191,7 @@
       "order": 12,
       "sentence_en": "Is there a tag? Look at the tag around its neck.",
       "sentence_vi": "Có thẻ không? Hãy nhìn vào chiếc thẻ quanh cổ nó.",
+      "sentence_ipa": "/ɪz ðeə ə tæɡ lʊk ət ðə tæɡ əˈraʊnd ɪts nek/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/12.mp3",
       "accepted_answers": [
         "Is there a tag look at the tag around its neck",
@@ -194,6 +206,7 @@
       "order": 13,
       "sentence_en": "Oh. Um...OK. Let’s see. It’s...Tiny: T-I-N-Y.",
       "sentence_vi": "Ồ. Ừm… Để xem nào. Nó là… Tiny: T-I-N-Y.",
+      "sentence_ipa": "/əʊ əm əʊˈkeɪ lets siː ɪts ˈtaɪni tiː aɪ en waɪ/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/13.mp3",
       "accepted_answers": [
         "Lets see its Tiny T I N Y",
@@ -208,6 +221,7 @@
       "order": 14,
       "sentence_en": "Oh, what a cute name!",
       "sentence_vi": "Ôi, cái tên dễ thương quá!",
+      "sentence_ipa": "/əʊ wɒt ə kjuːt neɪm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/14.mp3",
       "accepted_answers": [
         "Oh what a cute name",
@@ -222,6 +236,7 @@
       "order": 15,
       "sentence_en": "Yeah, whatever. OK, so can I leave the cat here, officer?",
       "sentence_vi": "Ừ, sao cũng được. Vậy tôi có thể để con mèo lại đây được không, thưa cảnh sát?",
+      "sentence_ipa": "/jeə wɒtˈevə əʊˈkeɪ səʊ kæn aɪ liːv ðə kæt hɪə ˈɒfɪsə/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/15.mp3",
       "accepted_answers": [
         "Yeah whatever ok so can I leave the cat here officer",
@@ -236,6 +251,7 @@
       "order": 16,
       "sentence_en": "Sure. I’ll take care of it.",
       "sentence_vi": "Được thôi. Tôi sẽ chăm sóc nó.",
+      "sentence_ipa": "/ʃɔː aɪl teɪk keə əv ɪt/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/16.mp3",
       "accepted_answers": [
         "Sure Ill take care of it",
@@ -251,6 +267,7 @@
       "order": 17,
       "sentence_en": "Thanks very much!",
       "sentence_vi": "Cảm ơn rất nhiều!",
+      "sentence_ipa": "/θæŋks ˈveri mʌtʃ/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c1/17.mp3",
       "accepted_answers": [
         "Thanks very much",
