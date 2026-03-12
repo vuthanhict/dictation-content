@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-11T17:28:18.154Z",
+  "updated_at": "2026-03-12T15:57:16.993Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -23,6 +23,7 @@
       "order": 1,
       "sentence_en": "Now it’s time for my guest.",
       "sentence_vi": "Bây giờ là lúc giới thiệu vị khách của tôi.",
+      "sentence_ipa": "/naʊ ɪts taɪm fər maɪ ɡɛst/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/1.mp3",
       "accepted_answers": [
         "Now its time for my guest",
@@ -38,6 +39,7 @@
       "order": 2,
       "sentence_en": "It’s Stella, the fashion designer.",
       "sentence_vi": "Đó là Stella, nhà thiết kế thời trang.",
+      "sentence_ipa": "/ɪts ˈstɛlə ðə ˈfæʃən dɪˈzaɪnər/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/2.mp3",
       "accepted_answers": [
         "Its Stella the fashion designer",
@@ -53,6 +55,7 @@
       "order": 3,
       "sentence_en": "She has a really exciting new collection, and she’s here with us today.",
       "sentence_vi": "Cô ấy có một bộ sưu tập mới rất thú vị và hôm nay cô ấy có mặt ở đây với chúng ta.",
+      "sentence_ipa": "/ʃi hæz ə ˈrɪli ɪkˈsaɪtɪŋ nu kəˈlɛkʃən ænd ʃiz hɪr wɪð ʌs təˈdeɪ/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/3.mp3",
       "accepted_answers": [
         "She has a really exciting new collection and shes here with us today",
@@ -68,6 +71,7 @@
       "order": 4,
       "sentence_en": "Thanks for coming to the studio, Stella. We’re very happy to see you.",
       "sentence_vi": "Cảm ơn Stella đã đến phòng thu. Chúng tôi rất vui khi được gặp bạn.",
+      "sentence_ipa": "/θæŋks fər ˈkʌmɪŋ tə ðə ˈstuːdioʊ ˈstɛlə wɪr ˈvɛri ˈhæpi tə si ju/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/4.mp3",
       "accepted_answers": [
         "Thanks for coming to the studio Stella we are very happy to see you",
@@ -82,6 +86,7 @@
       "order": 5,
       "sentence_en": "Oh, it’s my pleasure.",
       "sentence_vi": "Ồ, đó là niềm vinh hạnh của tôi.",
+      "sentence_ipa": "/oʊ ɪts maɪ ˈplɛʒər/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/5.mp3",
       "accepted_answers": [
         "Oh its my pleasure",
@@ -97,6 +102,7 @@
       "order": 6,
       "sentence_en": "OK, let me ask you some questions.",
       "sentence_vi": "Được rồi, để tôi hỏi bạn vài câu.",
+      "sentence_ipa": "/oʊˈkeɪ lɛt mi æsk ju sʌm ˈkwɛstʃənz/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/6.mp3",
       "accepted_answers": [
         "OK let me ask you some questions",
@@ -111,6 +117,7 @@
       "order": 7,
       "sentence_en": "First, we all know you as “Stella.”",
       "sentence_vi": "Trước hết, tất cả chúng tôi đều biết bạn với tên “Stella”.",
+      "sentence_ipa": "/fɝst wi ɔl noʊ ju æz ˈstɛlə/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/7.mp3",
       "accepted_answers": [
         "First we all know you as Stella",
@@ -125,6 +132,7 @@
       "order": 8,
       "sentence_en": "W-w-what’s your last name?",
       "sentence_vi": "Họ của bạn là gì?",
+      "sentence_ipa": "/wʌts jʊr læst neɪm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/8.mp3",
       "accepted_answers": [
         "Whats your last name",
@@ -140,6 +148,7 @@
       "order": 9,
       "sentence_en": "It’s Kim. My name is Stella Kim.",
       "sentence_vi": "Là Kim. Tên tôi là Stella Kim.",
+      "sentence_ipa": "/ɪts kɪm maɪ neɪm ɪz ˈstɛlə kɪm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/9.mp3",
       "accepted_answers": [
         "Its Kim my name is Stella Kim",
@@ -155,6 +164,7 @@
       "order": 10,
       "sentence_en": "Hmm. I guess just “Stella” is easier to remember! Where are you from?",
       "sentence_vi": "Hmm. Tôi đoán chỉ “Stella” thì dễ nhớ hơn! Bạn đến từ đâu?",
+      "sentence_ipa": "/həm aɪ ɡɛs dʒʌst ˈstɛlə ɪz ˈiziər tə rɪˈmɛmbər wɛr ɑr ju frəm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/10.mp3",
       "accepted_answers": [
         "I guess just Stella is easier to remember where are you from",
@@ -169,6 +179,7 @@
       "order": 11,
       "sentence_en": "Oh...uh...I’m originally from Toronto.",
       "sentence_vi": "Ồ… ừm… Tôi vốn đến từ Toronto.",
+      "sentence_ipa": "/oʊ ə aɪm əˈrɪdʒənəli frəm təˈrɑntoʊ/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/11.mp3",
       "accepted_answers": [
         "Im originally from Toronto",
@@ -184,6 +195,7 @@
       "order": 12,
       "sentence_en": "Oh. Where do you live? Do you still live in Canada?",
       "sentence_vi": "Ồ. Bạn sống ở đâu? Bạn vẫn sống ở Canada chứ?",
+      "sentence_ipa": "/oʊ wɛr du ju lɪv du ju stɪl lɪv ɪn ˈkænədə/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/12.mp3",
       "accepted_answers": [
         "Where do you live do you still live in Canada",
@@ -198,6 +210,7 @@
       "order": 13,
       "sentence_en": "No, I live in Paris now. But my family still lives in Toronto.",
       "sentence_vi": "Không, bây giờ tôi sống ở Paris. Nhưng gia đình tôi vẫn sống ở Toronto.",
+      "sentence_ipa": "/noʊ aɪ lɪv ɪn ˈpærɪs naʊ bʌt maɪ ˈfæməli stɪl lɪvz ɪn təˈrɑntoʊ/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/13.mp3",
       "accepted_answers": [
         "No I live in Paris now but my family still lives in Toronto",
@@ -212,6 +225,7 @@
       "order": 14,
       "sentence_en": "I see. Well, Stella, where do you work?",
       "sentence_vi": "Tôi hiểu rồi. Stella, bạn làm việc ở đâu?",
+      "sentence_ipa": "/aɪ si wɛl ˈstɛlə wɛr du ju wɝk/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/14.mp3",
       "accepted_answers": [
         "I see well Stella where do you work",
@@ -226,6 +240,7 @@
       "order": 15,
       "sentence_en": "Uh...well, I guess I work mainly in France. My company is in Paris.",
       "sentence_vi": "Ừm… tôi nghĩ là tôi chủ yếu làm việc ở Pháp. Công ty của tôi ở Paris.",
+      "sentence_ipa": "/ə wɛl aɪ ɡɛs aɪ wɝk ˈmeɪnli ɪn ფრæns maɪ ˈkʌmpəni ɪz ɪn ˈpærɪs/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/15.mp3",
       "accepted_answers": [
         "I guess I work mainly in France my company is in Paris",
@@ -240,6 +255,7 @@
       "order": 16,
       "sentence_en": "And what do you do in your free time?",
       "sentence_vi": "Và bạn làm gì vào thời gian rảnh?",
+      "sentence_ipa": "/ænd wʌt də ju du ɪn jʊr fri taɪm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/16.mp3",
       "accepted_answers": [
         "And what do you do in your free time",
@@ -254,6 +270,7 @@
       "order": 17,
       "sentence_en": "Hmm... Well, I love to travel. Oh, and I read a lot.",
       "sentence_vi": "Hmm… Tôi thích đi du lịch. À, và tôi đọc sách rất nhiều.",
+      "sentence_ipa": "/həm wɛl aɪ lʌv tə ˈtrævəl oʊ ænd aɪ rid ə lɑt/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/17.mp3",
       "accepted_answers": [
         "I love to travel and I read a lot",
@@ -268,6 +285,7 @@
       "order": 18,
       "sentence_en": "Interesting. And what’s your favorite kind of music?",
       "sentence_vi": "Thú vị đấy. Và loại nhạc yêu thích của bạn là gì?",
+      "sentence_ipa": "/ˈɪntrəstɪŋ ænd wʌts jʊr ˈfeɪvərɪt kaɪnd əv ˈmjuzɪk/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/18.mp3",
       "accepted_answers": [
         "And whats your favorite kind of music",
@@ -283,6 +301,7 @@
       "order": 19,
       "sentence_en": "I like all kinds of music, really.",
       "sentence_vi": "Tôi thích mọi thể loại nhạc.",
+      "sentence_ipa": "/aɪ laɪk ɔl kaɪndz əv ˈmjuzɪk ˈrɪli/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/19.mp3",
       "accepted_answers": [
         "I like all kinds of music really",
@@ -297,6 +316,7 @@
       "order": 20,
       "sentence_en": "But, uh, well, I would say classical music is my favorite.",
       "sentence_vi": "Nhưng có lẽ nhạc cổ điển là yêu thích nhất của tôi.",
+      "sentence_ipa": "/bʌt ə wɛl aɪ wʊd seɪ ˈklæsɪkəl ˈmjuzɪk ɪz maɪ ˈfeɪvərɪt/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/20.mp3",
       "accepted_answers": [
         "But I would say classical music is my favorite",
@@ -311,6 +331,7 @@
       "order": 21,
       "sentence_en": "Really. OK, Stella. Oh! Well, I’m afraid we’re just about out of time.",
       "sentence_vi": "Thật vậy sao. Được rồi Stella. Ồ! Có vẻ như chúng ta sắp hết thời gian rồi.",
+      "sentence_ipa": "/ˈrɪli oʊˈkeɪ ˈstɛlə oʊ wɛl aɪm əˈfreɪd wɪr dʒʌst əˈbaʊt aʊt əv taɪm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/21.mp3",
       "accepted_answers": [
         "Im afraid we are just about out of time",
@@ -326,6 +347,7 @@
       "order": 22,
       "sentence_en": "Thanks again for being a guest on our program.",
       "sentence_vi": "Cảm ơn bạn một lần nữa vì đã tham gia chương trình của chúng tôi.",
+      "sentence_ipa": "/θæŋks əˈɡɛn fər ˈbiɪŋ ə ɡɛst ɑn aʊr ˈproʊɡræm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/22.mp3",
       "accepted_answers": [
         "Thanks again for being a guest on our program",
@@ -340,6 +362,7 @@
       "order": 23,
       "sentence_en": "You’re welcome!",
       "sentence_vi": "Không có gì!",
+      "sentence_ipa": "/jʊr ˈwɛlkəm/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/23.mp3",
       "accepted_answers": [
         "Youre welcome",
@@ -355,6 +378,7 @@
       "order": 24,
       "sentence_en": "And if you want to see Stella’s designs, go to our Web site. That’s www.radio23...",
       "sentence_vi": "Và nếu bạn muốn xem các thiết kế của Stella, hãy truy cập trang web của chúng tôi. Đó là www.radio23...",
+      "sentence_ipa": "/ænd ɪf ju wɑnt tə si ˈstɛləz dɪˈzaɪnz ɡoʊ tə aʊr wɛb saɪt ðæts ˌdʌbəljuː ˌdʌbəljuː ˌdʌbəljuː ˈreɪdioʊ ˈtwɛnti θri/",
       "audio_url": "https://vuthanhict.github.io/dictation/audio/c2/24.mp3",
       "accepted_answers": [
         "If you want to see Stellas designs go to our web site thats www.radio23",
