@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-12T15:57:16.993Z",
-  "total_lessons": 3,
+  "updated_at": "2026-03-13T07:42:49.936Z",
+  "total_lessons": 4,
   "items": [
     {
       "lesson_id": "L001",
@@ -14,6 +14,14 @@
       "lesson_id": "L003",
       "topic_id": "T02",
       "lesson_title": "Talking About Your Qualifications",
+      "difficulty": "medium",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "lesson_id": "L004",
+      "topic_id": "T01",
+      "lesson_title": "Describing People at a Party",
       "difficulty": "medium",
       "order": 1,
       "is_active": true
