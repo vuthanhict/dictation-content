@@ -1,0 +1,271 @@
+{
+  "updated_at": "2026-03-13T07:42:49.936Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L004",
+    "topic_id": "T01",
+    "lesson_title": "Describing People at a Party",
+    "difficulty": "medium",
+    "order": 1,
+    "is_active": true
+  },
+  "total_sentences": 17,
+  "sentences": [
+    {
+      "sentence_id": "S046",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Do you want some more juice, Carl?",
+      "sentence_vi": "Carl, bạn có muốn uống thêm nước ép không?",
+      "sentence_ipa": "/du ju wɑnt səm mɔr dʒus kɑrl/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/001_Track09.mp3",
+      "accepted_answers": [
+        "do you want some more juice carl"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S047",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "No, thanks. But please, tell me who some of these people are before I talk to them.",
+      "sentence_vi": "Không, cảm ơn. Nhưng hãy nói cho tôi biết một vài người trong số họ là ai trước khi tôi nói chuyện với họ.",
+      "sentence_ipa": "/noʊ θæŋks bət pliz tɛl mi hu səm əv ðiz ˈpipəl ɑr bɪˈfɔr aɪ tɔk tə ðɛm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/002_Track09.mp3",
+      "accepted_answers": [
+        "no thanks but please tell me who some of these people are before i talk to them"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S048",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Ha-ha. Sure.",
+      "sentence_vi": "Ha-ha. Được thôi.",
+      "sentence_ipa": "/hɑ hɑ ʃʊr/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/003_Track09.mp3",
+      "accepted_answers": [
+        "haha sure",
+        "ha ha sure"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S049",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "OK. First, uh...which one is your boss?",
+      "sentence_vi": "Được rồi. Trước tiên, người nào là sếp của bạn?",
+      "sentence_ipa": "/oʊˈkeɪ fɝst ə wɪtʃ wʌn ɪz jʊr bɔs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/004_Track09.mp3",
+      "accepted_answers": [
+        "ok first which one is your boss"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S050",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Oh, Helen. Um...she’s the woman over there in that group. See – the tall one there with the short blond hair. Do you see who I mean?",
+      "sentence_vi": "Ồ, Helen. Cô ấy là người phụ nữ ở đằng kia trong nhóm đó. Thấy không – người cao cao với mái tóc vàng ngắn. Bạn hiểu tôi đang nói ai chứ?",
+      "sentence_ipa": "/oʊ ˈhɛlən əm ʃiz ðə ˈwʊmən ˈoʊvər ðɛr ɪn ðæt ɡrup si ðə tɔl wʌn ðɛr wɪð ðə ʃɔrt blɑnd hɛr du ju si hu aɪ min/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/005_Track09.mp3",
+      "accepted_answers": [
+        "oh helen shes the woman over there in that group see the tall one there with the short blond hair do you see who i mean",
+        "oh helen she is the woman over there in that group see the tall one there with the short blond hair do you see who i mean"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S051",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Oh, yeah. The woman on the left?",
+      "sentence_vi": "Ồ, đúng rồi. Người phụ nữ bên trái à?",
+      "sentence_ipa": "/oʊ jæ ðə ˈwʊmən ɑn ðə lɛft/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/006_Track09.mp3",
+      "accepted_answers": [
+        "oh yeah the woman on the left"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S052",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Yes. And that’s Sylvia, my best friend at the office.",
+      "sentence_vi": "Đúng. Đó là Sylvia, bạn thân nhất của tôi ở văn phòng.",
+      "sentence_ipa": "/jɛs ænd ðæts ˈsɪlviə maɪ bɛst frɛnd æt ði ˈɔfɪs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/007_Track09.mp3",
+      "accepted_answers": [
+        "yes and thats sylvia my best friend at the office",
+        "yes and that is sylvia my best friend at the office"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S053",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Oh, Sylvia, the one you’re always talking about. Which one is she?",
+      "sentence_vi": "Ồ, Sylvia, người mà bạn luôn nhắc tới. Cô ấy là người nào?",
+      "sentence_ipa": "/oʊ ˈsɪlviə ðə wʌn jʊr ˈɔlweɪz ˈtɔkɪŋ əˈbaʊt wɪtʃ wʌn ɪz ʃi/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/008_Track09.mp3",
+      "accepted_answers": [
+        "oh sylvia the one youre always talking about which one is she",
+        "oh sylvia the one you are always talking about which one is she"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S054",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "She’s the one with the curly black hair, with the round face. Um...she’s sitting with that guy in the blue shirt. She’s really funny – we always make each other laugh.",
+      "sentence_vi": "Cô ấy là người có tóc xoăn đen và khuôn mặt tròn. Cô ấy đang ngồi với anh chàng mặc áo xanh kia. Cô ấy rất hài hước – chúng tôi luôn làm nhau cười.",
+      "sentence_ipa": "/ʃiz ðə wʌn wɪð ðə ˈkɝli blæk hɛr wɪð ðə raʊnd feɪs əm ʃiz ˈsɪtɪŋ wɪð ðæt ɡaɪ ɪn ðə blu ʃɝt ʃiz ˈrɪli ˈfʌni wi ˈɔlweɪz meɪk itʃ ˈʌðər læf/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/009_Track09.mp3",
+      "accepted_answers": [
+        "shes the one with the curly black hair with the round face shes sitting with that guy in the blue shirt shes really funny we always make each other laugh",
+        "she is the one with the curly black hair with the round face she is sitting with that guy in the blue shirt she is really funny we always make each other laugh"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S055",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "And who’s that guy over there with the...uh...dark eyebrows and dark hair?",
+      "sentence_vi": "Và anh chàng đằng kia với lông mày đậm và tóc đen là ai?",
+      "sentence_ipa": "/ænd huz ðæt ɡaɪ ˈoʊvər ðɛr wɪð ðə dɑrk ˈaɪbraʊz ænd dɑrk hɛr/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/010_Track09.mp3",
+      "accepted_answers": [
+        "and whos that guy over there with the dark eyebrows and dark hair",
+        "and who is that guy over there with the dark eyebrows and dark hair"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S056",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Oh, um...the big guy? The one who’s talking to Helen? That’s Danny, the security guard. He’s really helpful.",
+      "sentence_vi": "Ồ...anh chàng to con ấy à? Người đang nói chuyện với Helen? Đó là Danny, nhân viên bảo vệ. Anh ấy rất nhiệt tình.",
+      "sentence_ipa": "/oʊ əm ðə bɪɡ ɡaɪ ðə wʌn huz ˈtɔkɪŋ tə ˈhɛlən ðæts ˈdæni ðə sɪˈkjʊrəti ɡɑrd hiz ˈrɪli ˈhɛlpfəl/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/011_Track09.mp3",
+      "accepted_answers": [
+        "oh the big guy the one whos talking to helen thats danny the security guard hes really helpful",
+        "oh the big guy the one who is talking to helen that is danny the security guard he is really helpful"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S057",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "And...uh...how about that muscular guy there – who’s he? He looks familiar.",
+      "sentence_vi": "Còn anh chàng cơ bắp kia thì sao – anh ấy là ai? Anh ấy trông quen quen.",
+      "sentence_ipa": "/ænd haʊ əˈbaʊt ðæt ˈmʌskjələr ɡaɪ ðɛr huz hi hi lʊks fəˈmɪljər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/012_Track09.mp3",
+      "accepted_answers": [
+        "and how about that muscular guy there whos he he looks familiar",
+        "and how about that muscular guy there who is he he looks familiar"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S058",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Oh, the man in blue jeans? He’s not very tall, right? That’s...um...Helen’s assistant.",
+      "sentence_vi": "Ồ, người đàn ông mặc quần jean xanh à? Anh ấy không cao lắm đúng không? Đó là trợ lý của Helen.",
+      "sentence_ipa": "/oʊ ðə mæn ɪn blu dʒinz hiz nɑt ˈvɛri tɔl raɪt ðæts ˈhɛlənz əˈsɪstənt/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/013_Track09.mp3",
+      "accepted_answers": [
+        "oh the man in blue jeans hes not very tall right thats helens assistant",
+        "oh the man in blue jeans he is not very tall right that is helens assistant"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S059",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "What’s his name?",
+      "sentence_vi": "Tên anh ấy là gì?",
+      "sentence_ipa": "/wʌts hɪz neɪm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/014_Track09.mp3",
+      "accepted_answers": [
+        "whats his name",
+        "what is his name"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S060",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Oh, that’s Ben.",
+      "sentence_vi": "Ồ, đó là Ben.",
+      "sentence_ipa": "/oʊ ðæts bɛn/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/015_Track09.mp3",
+      "accepted_answers": [
+        "oh thats ben",
+        "oh that is ben"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S061",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "I think I’ve seen him at the gym.",
+      "sentence_vi": "Tôi nghĩ tôi đã thấy anh ấy ở phòng gym.",
+      "sentence_ipa": "/aɪ θɪŋk aɪv sin hɪm æt ðə dʒɪm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/016_Track09.mp3",
+      "accepted_answers": [
+        "i think ive seen him at the gym",
+        "i think i have seen him at the gym"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S062",
+      "lesson_id": "L004",
+      "order": 9999,
+      "sentence_en": "Well, come on, Carl. Don’t be shy. Let me introduce you around, and then we can find out exactly.",
+      "sentence_vi": "Thôi nào Carl. Đừng ngại. Để tôi giới thiệu bạn với mọi người, rồi chúng ta sẽ biết chính xác.",
+      "sentence_ipa": "/wɛl kʌm ɑn kɑrl doʊnt bi ʃaɪ lɛt mi ˌɪntrəˈdus ju əˈraʊnd ænd ðɛn wi kən faɪnd aʊt ɪɡˈzæktli/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track09/017_Track09.mp3",
+      "accepted_answers": [
+        "well come on carl dont be shy let me introduce you around and then we can find out exactly"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
+}
