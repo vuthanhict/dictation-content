@@ -1,0 +1,452 @@
+{
+  "updated_at": "2026-03-17T16:12:26.879Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L005",
+    "topic_id": "T01",
+    "lesson_title": "James Describes His Family",
+    "difficulty": "medium",
+    "order": 1,
+    "is_active": true
+  },
+  "total_sentences": 30,
+  "sentences": [
+    {
+      "sentence_id": "S063",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "James is describing his family.",
+      "sentence_vi": "James đang mô tả gia đình của mình.",
+      "sentence_ipa": "/dʒeɪmz ɪz dɪˈskraɪbɪŋ hɪz ˈfæməli/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/001_Track16.mp3",
+      "accepted_answers": [
+        "james is describing his family"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S064",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "How are these people related to him?",
+      "sentence_vi": "Những người này có quan hệ gì với anh ấy?",
+      "sentence_ipa": "/haʊ ɑr ðiz ˈpipəl rɪˈleɪtɪd tə hɪm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/002_Track16.mp3",
+      "accepted_answers": [
+        "how are these people related to him"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S065",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Write the answers in the boxes.",
+      "sentence_vi": "Viết câu trả lời vào các ô.",
+      "sentence_ipa": "/raɪt ði ˈænsərz ɪn ðə ˈbɑksɪz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/003_Track16.mp3",
+      "accepted_answers": [
+        "write the answers in the boxes"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S066",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "James, who are all the people in this photo?",
+      "sentence_vi": "James, tất cả những người trong bức ảnh này là ai?",
+      "sentence_ipa": "/dʒeɪmz hu ɑr ɔl ðə ˈpipəl ɪn ðɪs ˈfoʊtoʊ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/004_Track16.mp3",
+      "accepted_answers": [
+        "james who are all the people in this photo"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S067",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Wait, let me guess!",
+      "sentence_vi": "Đợi đã, để tôi đoán!",
+      "sentence_ipa": "/weɪt lɛt mi ɡɛs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/005_Track16.mp3",
+      "accepted_answers": [
+        "wait let me guess"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S068",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "That guy in the front looks like he’s your grandfather.",
+      "sentence_vi": "Người đàn ông phía trước trông giống ông của bạn.",
+      "sentence_ipa": "/ðæt ɡaɪ ɪn ðə frʌnt lʊks laɪk hiz jʊr ˈɡrændˌfɑðər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/006_Track16.mp3",
+      "accepted_answers": [
+        "that guy in the front looks like hes your grandfather",
+        "that guy in the front looks like he is your grandfather"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S069",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Am I right?",
+      "sentence_vi": "Tôi đúng không?",
+      "sentence_ipa": "/æm aɪ raɪt/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/007_Track16.mp3",
+      "accepted_answers": [
+        "am i right"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S070",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "No, actually that’s my dad’s older brother, Tony.",
+      "sentence_vi": "Không, thực ra đó là anh trai của bố tôi, Tony.",
+      "sentence_ipa": "/noʊ ˈækʧuəli ðæts maɪ dædz ˈoʊldər ˈbrʌðər ˈtoʊni/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/008_Track16.mp3",
+      "accepted_answers": [
+        "no actually thats my dads older brother tony",
+        "no actually that is my dads older brother tony"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S071",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "So, Tony is your uncle?",
+      "sentence_vi": "Vậy Tony là chú của bạn à?",
+      "sentence_ipa": "/soʊ ˈtoʊni ɪz jʊr ˈʌŋkəl/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/009_Track16.mp3",
+      "accepted_answers": [
+        "so tony is your uncle"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S072",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Yeah.",
+      "sentence_vi": "Ừ.",
+      "sentence_ipa": "/jæ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/010_Track16.mp3",
+      "accepted_answers": [
+        "yeah"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S073",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "OK. And is the older woman with the birthday cake your grandmother?",
+      "sentence_vi": "Người phụ nữ lớn tuổi với bánh sinh nhật là bà của bạn à?",
+      "sentence_ipa": "/oʊˈkeɪ ænd ɪz ði ˈoʊldər ˈwʊmən wɪð ðə ˈbɝθdeɪ keɪk jʊr ˈɡrændˌmʌðər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/011_Track16.mp3",
+      "accepted_answers": [
+        "ok and is the older woman with the birthday cake your grandmother"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S074",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Yes, she’s my father’s mother. Her name’s Anna.",
+      "sentence_vi": "Đúng, bà ấy là mẹ của bố tôi. Tên bà là Anna.",
+      "sentence_ipa": "/jɛs ʃiz maɪ ˈfɑðərz ˈmʌðər hɝ neɪmz ˈænə/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/012_Track16.mp3",
+      "accepted_answers": [
+        "yes shes my fathers mother her names anna",
+        "yes she is my fathers mother her name is anna"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S075",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "So, who is the other older woman?",
+      "sentence_vi": "Vậy người phụ nữ lớn tuổi còn lại là ai?",
+      "sentence_ipa": "/soʊ hu ɪz ði ˈʌðər ˈoʊldər ˈwʊmən/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/013_Track16.mp3",
+      "accepted_answers": [
+        "so who is the other older woman"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S076",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Oh, that’s Mary — she’s my father’s sister.",
+      "sentence_vi": "Ồ, đó là Mary — em gái của bố tôi.",
+      "sentence_ipa": "/oʊ ðæts ˈmɛri ʃiz maɪ ˈfɑðərz ˈsɪstər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/014_Track16.mp3",
+      "accepted_answers": [
+        "oh thats mary shes my fathers sister",
+        "oh that is mary she is my fathers sister"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S077",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Oh. Your aunt, then?",
+      "sentence_vi": "Ồ, vậy là cô của bạn à?",
+      "sentence_ipa": "/oʊ jʊr ænt ðɛn/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/015_Track16.mp3",
+      "accepted_answers": [
+        "your aunt then"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S078",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Right. And can you guess who the girl in the middle is? The one with the long brown hair?",
+      "sentence_vi": "Đúng. Bạn đoán được cô gái ở giữa là ai không? Người tóc nâu dài ấy?",
+      "sentence_ipa": "/raɪt ænd kæn ju ɡɛs hu ðə ɡɝl ɪn ðə ˈmɪdəl ɪz ðə wʌn wɪð ðə lɔŋ braʊn hɛr/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/016_Track16.mp3",
+      "accepted_answers": [
+        "right and can you guess who the girl in the middle is the one with the long brown hair"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S079",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "She’s pretty. Uh… is she your sister?",
+      "sentence_vi": "Cô ấy xinh thật. Cô ấy là em gái bạn à?",
+      "sentence_ipa": "/ʃiz ˈprɪti ə ɪz ʃi jʊr ˈsɪstər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/017_Track16.mp3",
+      "accepted_answers": [
+        "shes pretty is she your sister",
+        "she is pretty is she your sister"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S080",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "No, she’s Uncle Tony’s daughter, Gloria.",
+      "sentence_vi": "Không, cô ấy là con gái của chú Tony, Gloria.",
+      "sentence_ipa": "/noʊ ʃiz ˈʌŋkəl ˈtoʊniz ˈdɔtər ˈɡlɔriə/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/018_Track16.mp3",
+      "accepted_answers": [
+        "no shes uncle tonys daughter gloria",
+        "no she is uncle tonys daughter gloria"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S081",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Really? She’s your cousin?",
+      "sentence_vi": "Thật à? Cô ấy là em họ của bạn à?",
+      "sentence_ipa": "/ˈrɪli ʃiz jʊr ˈkʌzən/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/019_Track16.mp3",
+      "accepted_answers": [
+        "really shes your cousin",
+        "really she is your cousin"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S082",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Yes. The girl on the right is my sister.",
+      "sentence_vi": "Đúng. Cô gái bên phải là em gái tôi.",
+      "sentence_ipa": "/jɛs ðə ɡɝl ɑn ðə raɪt ɪz maɪ ˈsɪstər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/020_Track16.mp3",
+      "accepted_answers": [
+        "yes the girl on the right is my sister"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S083",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Sophia?",
+      "sentence_vi": "Sophia à?",
+      "sentence_ipa": "/soʊˈfiə/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/021_Track16.mp3",
+      "accepted_answers": [
+        "sophia"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S084",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Sophia, yes.",
+      "sentence_vi": "Đúng, Sophia.",
+      "sentence_ipa": "/soʊˈfiə jɛs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/022_Track16.mp3",
+      "accepted_answers": [
+        "sophia yes"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S085",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "And the little girl in front of her’s Clara, her daughter.",
+      "sentence_vi": "Bé gái phía trước là Clara, con gái của cô ấy.",
+      "sentence_ipa": "/ænd ðə ˈlɪtəl ɡɝl ɪn frʌnt əv hɝz ˈklɛrə hɝ ˈdɔtər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/023_Track16.mp3",
+      "accepted_answers": [
+        "and the little girl in front of hers clara her daughter"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S086",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "She’s my niece.",
+      "sentence_vi": "Cô bé là cháu gái của tôi.",
+      "sentence_ipa": "/ʃiz maɪ nis/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/024_Track16.mp3",
+      "accepted_answers": [
+        "shes my niece",
+        "she is my niece"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S087",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "So, you’re her Uncle James!",
+      "sentence_vi": "Vậy bạn là chú James của cô bé!",
+      "sentence_ipa": "/soʊ jʊr hɝ ˈʌŋkəl dʒeɪmz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/025_Track16.mp3",
+      "accepted_answers": [
+        "so youre her uncle james",
+        "so you are her uncle james"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S088",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "How about the cute little boy? Is that Clara’s brother?",
+      "sentence_vi": "Còn cậu bé dễ thương kia thì sao? Đó là em trai của Clara à?",
+      "sentence_ipa": "/haʊ əˈbaʊt ðə kjut ˈlɪtəl bɔɪ ɪz ðæt ˈklɛrəz ˈbrʌðər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/026_Track16.mp3",
+      "accepted_answers": [
+        "how about the cute little boy is that claras brother"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S089",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "No. That’s Bobby.",
+      "sentence_vi": "Không. Đó là Bobby.",
+      "sentence_ipa": "/noʊ ðæts ˈbɑbi/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/027_Track16.mp3",
+      "accepted_answers": [
+        "no thats bobby",
+        "no that is bobby"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S090",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Bobby?",
+      "sentence_vi": "Bobby à?",
+      "sentence_ipa": "/ˈbɑbi/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/028_Track16.mp3",
+      "accepted_answers": [
+        "bobby"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S091",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Yeah. He’s my little boy.",
+      "sentence_vi": "Ừ. Đó là con trai nhỏ của tôi.",
+      "sentence_ipa": "/jæ hiz maɪ ˈlɪtəl bɔɪ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/029_Track16.mp3",
+      "accepted_answers": [
+        "yeah hes my little boy",
+        "yeah he is my little boy"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S092",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Oh, of course!",
+      "sentence_vi": "Ồ, tất nhiên rồi!",
+      "sentence_ipa": "/oʊ əv kɔrs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/030_Track16.mp3",
+      "accepted_answers": [
+        "oh of course"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
+}
