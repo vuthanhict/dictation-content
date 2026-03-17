@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-03-13T13:30:07.244Z",
+  "updated_at": "2026-03-17T16:12:26.879Z",
   "counts": {
     "topics": 3,
-    "lessons": 4,
-    "sentences": 62
+    "lessons": 5,
+    "sentences": 98
   },
   "files": [
     "index.json",
@@ -11,6 +11,7 @@
     "lesson/L002.json",
     "lesson/L003.json",
     "lesson/L004.json",
+    "lesson/L005.json",
     "lessons-by-topic/T01.json",
     "lessons-by-topic/T02.json",
     "lessons-by-topic/T03.json",
