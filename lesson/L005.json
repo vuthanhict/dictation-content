@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-17T16:12:26.879Z",
+  "updated_at": "2026-03-18T15:33:18.259Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -15,7 +15,7 @@
     "order": 1,
     "is_active": true
   },
-  "total_sentences": 30,
+  "total_sentences": 36,
   "sentences": [
     {
       "sentence_id": "S063",
@@ -444,6 +444,93 @@
       "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/030_Track16.mp3",
       "accepted_answers": [
         "oh of course"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S093",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "He looks just like you!",
+      "sentence_vi": "Cậu bé trông giống bạn y hệt!",
+      "sentence_ipa": "/hi lʊks dʒʌst laɪk ju/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/031_Track16.mp3",
+      "accepted_answers": [
+        "he looks just like you"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S094",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Ah… so who’s the man in the back row, then?",
+      "sentence_vi": "À… vậy người đàn ông ở hàng sau là ai?",
+      "sentence_ipa": "/ɑ soʊ huz ðə mæn ɪn ðə bæk roʊ ðɛn/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/032_Track16.mp3",
+      "accepted_answers": [
+        "so whos the man in the back row then",
+        "so who is the man in the back row then"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S095",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "That’s Sophia’s husband. His name’s George.",
+      "sentence_vi": "Đó là chồng của Sophia. Tên anh ấy là George.",
+      "sentence_ipa": "/ðæts soʊˈfiəz ˈhʌzbənd hɪz neɪmz dʒɔrdʒ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/033_Track16.mp3",
+      "accepted_answers": [
+        "thats sophias husband his names george",
+        "that is sophias husband his name is george"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S096",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "So… he’s your…",
+      "sentence_vi": "Vậy… anh ấy là…",
+      "sentence_ipa": "/soʊ hiz jʊr/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/034_Track16.mp3",
+      "accepted_answers": [
+        "so hes your",
+        "so he is your"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S097",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "My brother-in-law.",
+      "sentence_vi": "Anh rể của tôi.",
+      "sentence_ipa": "/maɪ ˈbrʌðər ɪn lɔ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/035_Track16.mp3",
+      "accepted_answers": [
+        "my brother in law"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S098",
+      "lesson_id": "L005",
+      "order": 9999,
+      "sentence_en": "Right.",
+      "sentence_vi": "Đúng.",
+      "sentence_ipa": "/raɪt/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track16/036_Track16.mp3",
+      "accepted_answers": [
+        "right"
       ],
       "compare_mode": "flexible",
       "is_active": true
