@@ -1,0 +1,178 @@
+{
+  "updated_at": "2026-03-22T15:25:01.177Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L006",
+    "topic_id": "T01",
+    "lesson_title": "Ron Talks About His Best Friend",
+    "difficulty": "medium",
+    "order": 1,
+    "is_active": true
+  },
+  "total_sentences": 11,
+  "sentences": [
+    {
+      "sentence_id": "S099",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "Ron, who’s your best friend?",
+      "sentence_vi": "Ron, ai là bạn thân nhất của bạn?",
+      "sentence_ipa": "/rɑn huz jʊr bɛst frɛnd/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/001_Track18.mp3",
+      "accepted_answers": [
+        "ron whos your best friend",
+        "ron who is your best friend"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S100",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "My best friend is a guy named Tom.",
+      "sentence_vi": "Bạn thân nhất của tôi là một người tên Tom.",
+      "sentence_ipa": "/maɪ bɛst frɛnd ɪz ə ɡaɪ neɪmd tɑm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/002_Track18.mp3",
+      "accepted_answers": [
+        "my best friend is a guy named tom"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S101",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "And what do you do together? Do you go fishing?",
+      "sentence_vi": "Và hai bạn thường làm gì cùng nhau? Hai bạn có đi câu cá không?",
+      "sentence_ipa": "/ænd wʌt də ju du təˈɡɛðər du ju ɡoʊ ˈfɪʃɪŋ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/003_Track18.mp3",
+      "accepted_answers": [
+        "and what do you do together do you go fishing"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S102",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "No, I like to be alone when I fish. Tom and I love to go camping.",
+      "sentence_vi": "Không, tôi thích ở một mình khi đi câu cá. Tom và tôi thích đi cắm trại.",
+      "sentence_ipa": "/noʊ aɪ laɪk tə bi əˈloʊn wɛn aɪ fɪʃ tɑm ænd aɪ lʌv tə ɡoʊ ˈkæmpɪŋ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/004_Track18.mp3",
+      "accepted_answers": [
+        "no i like to be alone when i fish tom and i love to go camping"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S103",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "In the mountains?",
+      "sentence_vi": "Ở trên núi à?",
+      "sentence_ipa": "/ɪn ðə ˈmaʊntənz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/005_Track18.mp3",
+      "accepted_answers": [
+        "in the mountains"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S104",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "Yeah. It’s great to be out in the fresh air. Seeing the stars at night.",
+      "sentence_vi": "Ừ. Thật tuyệt khi được ở ngoài trời với không khí trong lành. Ngắm sao vào ban đêm.",
+      "sentence_ipa": "/jæ ɪts ɡreɪt tə bi aʊt ɪn ðə frɛʃ ɛr ˈsiɪŋ ðə stɑrz æt naɪt/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/006_Track18.mp3",
+      "accepted_answers": [
+        "yeah its great to be out in the fresh air seeing the stars at night",
+        "yeah it is great to be out in the fresh air seeing the stars at night"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S105",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "I know what you mean. And when did you two first meet?",
+      "sentence_vi": "Tôi hiểu ý bạn. Hai bạn gặp nhau lần đầu khi nào?",
+      "sentence_ipa": "/aɪ noʊ wʌt ju min ænd wɛn dɪd ju tu fɝst mit/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/007_Track18.mp3",
+      "accepted_answers": [
+        "i know what you mean and when did you two first meet"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S106",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "It was when we were in high school.",
+      "sentence_vi": "Đó là khi chúng tôi học trung học.",
+      "sentence_ipa": "/ɪt wəz wɛn wi wɝ ɪn haɪ skul/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/008_Track18.mp3",
+      "accepted_answers": [
+        "it was when we were in high school"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S107",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "We were in the same history class. That was, let me think, ten years ago.",
+      "sentence_vi": "Chúng tôi học cùng lớp lịch sử. Đó là, để tôi nghĩ xem, khoảng mười năm trước.",
+      "sentence_ipa": "/wi wɝ ɪn ðə seɪm ˈhɪstəri klæs ðæt wəz lɛt mi θɪŋk tɛn jɪrz əˈɡoʊ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/009_Track18.mp3",
+      "accepted_answers": [
+        "we were in the same history class that was let me think ten years ago"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S108",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "And you’re still good friends.",
+      "sentence_vi": "Và bạn vẫn là bạn tốt của nhau.",
+      "sentence_ipa": "/ænd jʊr stɪl ɡʊd frɛndz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/010_Track18.mp3",
+      "accepted_answers": [
+        "and youre still good friends",
+        "and you are still good friends"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S109",
+      "lesson_id": "L006",
+      "order": 9999,
+      "sentence_en": "Yes, the best!",
+      "sentence_vi": "Đúng vậy, là bạn thân nhất!",
+      "sentence_ipa": "/jɛs ðə bɛst/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_1/011_Track18.mp3",
+      "accepted_answers": [
+        "yes the best"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
+}
