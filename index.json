@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-18T15:33:18.259Z",
-  "total_files": 10,
+  "updated_at": "2026-03-22T15:25:01.177Z",
+  "total_files": 14,
   "file_map": {
     "topics.json": "https://github.com/vuthanhict/dictation-content.git/topics.json",
     "lessons.json": "https://github.com/vuthanhict/dictation-content.git/lessons.json",
@@ -11,6 +11,10 @@
     "lesson/L003.json": "https://github.com/vuthanhict/dictation-content.git/lesson/L003.json",
     "lesson/L004.json": "https://github.com/vuthanhict/dictation-content.git/lesson/L004.json",
     "lesson/L005.json": "https://github.com/vuthanhict/dictation-content.git/lesson/L005.json",
+    "lesson/L006.json": "https://github.com/vuthanhict/dictation-content.git/lesson/L006.json",
+    "lesson/L007.json": "https://github.com/vuthanhict/dictation-content.git/lesson/L007.json",
+    "lesson/L008.json": "https://github.com/vuthanhict/dictation-content.git/lesson/L008.json",
+    "lesson/L009.json": "https://github.com/vuthanhict/dictation-content.git/lesson/L009.json",
     "lesson/L002.json": "https://github.com/vuthanhict/dictation-content.git/lesson/L002.json"
   }
 }
