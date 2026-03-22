@@ -1,0 +1,220 @@
+{
+  "updated_at": "2026-03-22T15:25:01.177Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L007",
+    "topic_id": "T01",
+    "lesson_title": "Sally Talks About Her Best Friend",
+    "difficulty": "medium",
+    "order": 1,
+    "is_active": true
+  },
+  "total_sentences": 14,
+  "sentences": [
+    {
+      "sentence_id": "S110",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "OK. Sally. How about you? Who’s your best friend?",
+      "sentence_vi": "Được rồi, Sally. Còn bạn thì sao? Ai là bạn thân nhất của bạn?",
+      "sentence_ipa": "/oʊˈkeɪ ˈsæli haʊ əˈbaʊt ju huz jʊr bɛst frɛnd/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/013_Track18.mp3",
+      "accepted_answers": [
+        "ok sally how about you whos your best friend",
+        "ok sally how about you who is your best friend"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S111",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "My best friend’s name is Susan.",
+      "sentence_vi": "Bạn thân nhất của tôi tên là Susan.",
+      "sentence_ipa": "/maɪ bɛst frɛndz neɪm ɪz ˈsuzən/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/014_Track18.mp3",
+      "accepted_answers": [
+        "my best friends name is susan"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S112",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "And what do you two like to do together?",
+      "sentence_vi": "Hai bạn thích làm gì cùng nhau?",
+      "sentence_ipa": "/ænd wʌt də ju tu laɪk tə du təˈɡɛðər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/015_Track18.mp3",
+      "accepted_answers": [
+        "and what do you two like to do together"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S113",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "All kinds of stuff. We spend a lot of time together.",
+      "sentence_vi": "Nhiều thứ lắm. Chúng tôi dành rất nhiều thời gian bên nhau.",
+      "sentence_ipa": "/ɔl kaɪndz əv stʌf wi spɛnd ə lɑt əv taɪm təˈɡɛðər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/016_Track18.mp3",
+      "accepted_answers": [
+        "all kinds of stuff we spend a lot of time together"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S114",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "OK, but what’s your favorite thing to do?",
+      "sentence_vi": "Được rồi, nhưng hoạt động yêu thích của bạn là gì?",
+      "sentence_ipa": "/oʊˈkeɪ bət wʌts jʊr ˈfeɪvərɪt θɪŋ tə du/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/017_Track18.mp3",
+      "accepted_answers": [
+        "ok but whats your favorite thing to do",
+        "ok but what is your favorite thing to do"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S115",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "Do you two go camping like Ron and Tom?",
+      "sentence_vi": "Hai bạn có đi cắm trại như Ron và Tom không?",
+      "sentence_ipa": "/du ju tu ɡoʊ ˈkæmpɪŋ laɪk rɑn ænd tɑm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/018_Track18.mp3",
+      "accepted_answers": [
+        "do you two go camping like ron and tom"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S116",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "No, we never go camping.",
+      "sentence_vi": "Không, chúng tôi không bao giờ đi cắm trại.",
+      "sentence_ipa": "/noʊ wi ˈnɛvər ɡoʊ ˈkæmpɪŋ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/019_Track18.mp3",
+      "accepted_answers": [
+        "no we never go camping"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S117",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "No, what we like to do is go to the movies.",
+      "sentence_vi": "Không, điều chúng tôi thích làm là đi xem phim.",
+      "sentence_ipa": "/noʊ wʌt wi laɪk tə du ɪz ɡoʊ tə ðə ˈmuviz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/020_Track18.mp3",
+      "accepted_answers": [
+        "no what we like to do is go to the movies"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S118",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "We go almost every Friday night.",
+      "sentence_vi": "Chúng tôi đi gần như mỗi tối thứ Sáu.",
+      "sentence_ipa": "/wi ɡoʊ ˈɔlmoʊst ˈɛvri ˈfraɪdeɪ naɪt/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/021_Track18.mp3",
+      "accepted_answers": [
+        "we go almost every friday night"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S119",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "I see. And when did you first meet?",
+      "sentence_vi": "Tôi hiểu rồi. Hai bạn gặp nhau lần đầu khi nào?",
+      "sentence_ipa": "/aɪ si ænd wɛn dɪd ju fɝst mit/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/022_Track18.mp3",
+      "accepted_answers": [
+        "i see and when did you first meet"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S120",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "A long time ago. When we were both seven years old.",
+      "sentence_vi": "Từ rất lâu rồi. Khi chúng tôi đều bảy tuổi.",
+      "sentence_ipa": "/ə lɔŋ taɪm əˈɡoʊ wɛn wi wɝ boʊθ ˈsɛvən jɪrz oʊld/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/023_Track18.mp3",
+      "accepted_answers": [
+        "a long time ago when we were both seven years old"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S121",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "You were seven?",
+      "sentence_vi": "Bạn lúc đó bảy tuổi à?",
+      "sentence_ipa": "/ju wɝ ˈsɛvən/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/024_Track18.mp3",
+      "accepted_answers": [
+        "you were seven"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S122",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "Yes, a very long time ago, almost 25 years ago.",
+      "sentence_vi": "Đúng, rất lâu rồi, gần 25 năm trước.",
+      "sentence_ipa": "/jɛs ə ˈvɛri lɔŋ taɪm əˈɡoʊ ˈɔlmoʊst ˈtwɛnti faɪv jɪrz əˈɡoʊ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/025_Track18.mp3",
+      "accepted_answers": [
+        "yes a very long time ago almost 25 years ago"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S123",
+      "lesson_id": "L007",
+      "order": 9999,
+      "sentence_en": "That is a long time ago!",
+      "sentence_vi": "Đúng là lâu thật!",
+      "sentence_ipa": "/ðæt ɪz ə lɔŋ taɪm əˈɡoʊ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_2/026_Track18.mp3",
+      "accepted_answers": [
+        "that is a long time ago",
+        "thats a long time ago"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
+}
