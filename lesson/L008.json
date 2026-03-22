@@ -1,0 +1,219 @@
+{
+  "updated_at": "2026-03-22T15:25:01.177Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L008",
+    "topic_id": "T01",
+    "lesson_title": "Ken Talks About His Best Friend",
+    "difficulty": "medium",
+    "order": 1,
+    "is_active": true
+  },
+  "total_sentences": 14,
+  "sentences": [
+    {
+      "sentence_id": "S124",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "Do you have a best friend, Ken?",
+      "sentence_vi": "Ken, bạn có bạn thân không?",
+      "sentence_ipa": "/du ju hæv ə bɛst frɛnd kɛn/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/028_Track18.mp3",
+      "accepted_answers": [
+        "do you have a best friend ken"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S125",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "Oh, yeah. My best friend is Jim.",
+      "sentence_vi": "Ồ, có. Bạn thân nhất của tôi là Jim.",
+      "sentence_ipa": "/oʊ jæ maɪ bɛst frɛnd ɪz dʒɪm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/029_Track18.mp3",
+      "accepted_answers": [
+        "oh yeah my best friend is jim"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S126",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "And how long have you known each other?",
+      "sentence_vi": "Hai bạn quen nhau bao lâu rồi?",
+      "sentence_ipa": "/ænd haʊ lɔŋ hæv ju noʊn itʃ ˈʌðər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/030_Track18.mp3",
+      "accepted_answers": [
+        "and how long have you known each other"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S127",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "Not so long. About a year, wait, no, two years.",
+      "sentence_vi": "Không lâu lắm. Khoảng một năm, à không, hai năm.",
+      "sentence_ipa": "/nɑt soʊ lɔŋ əˈbaʊt ə jɪr weɪt noʊ tu jɪrz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/031_Track18.mp3",
+      "accepted_answers": [
+        "not so long about a year wait no two years"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S128",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "Yeah, we met at the tennis club two years ago.",
+      "sentence_vi": "Ừ, chúng tôi gặp nhau ở câu lạc bộ tennis hai năm trước.",
+      "sentence_ipa": "/jæ wi mɛt æt ðə ˈtɛnɪs klʌb tu jɪrz əˈɡoʊ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/032_Track18.mp3",
+      "accepted_answers": [
+        "yeah we met at the tennis club two years ago"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S129",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "Oh, so you play tennis with each other?",
+      "sentence_vi": "Ồ, vậy hai bạn chơi tennis cùng nhau à?",
+      "sentence_ipa": "/oʊ soʊ ju pleɪ ˈtɛnɪs wɪð itʃ ˈʌðər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/033_Track18.mp3",
+      "accepted_answers": [
+        "oh so you play tennis with each other"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S130",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "Well, against each other, really. You know, we both try to win.",
+      "sentence_vi": "Thực ra là đấu với nhau. Bạn biết đấy, cả hai đều cố gắng thắng.",
+      "sentence_ipa": "/wɛl əˈɡɛnst itʃ ˈʌðər ˈrɪli ju noʊ wi boʊθ traɪ tə wɪn/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/034_Track18.mp3",
+      "accepted_answers": [
+        "well against each other really you know we both try to win"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S131",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "And who usually wins – you or him?",
+      "sentence_vi": "Và ai thường thắng – bạn hay anh ấy?",
+      "sentence_ipa": "/ænd hu ˈjuʒuəli wɪnz ju ɔr hɪm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/035_Track18.mp3",
+      "accepted_answers": [
+        "and who usually wins you or him"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S132",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "Definitely Jim.",
+      "sentence_vi": "Chắc chắn là Jim.",
+      "sentence_ipa": "/ˈdɛfənətli dʒɪm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/036_Track18.mp3",
+      "accepted_answers": [
+        "definitely jim"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S133",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "I almost always lose.",
+      "sentence_vi": "Tôi gần như luôn thua.",
+      "sentence_ipa": "/aɪ ˈɔlmoʊst ˈɔlweɪz luz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/037_Track18.mp3",
+      "accepted_answers": [
+        "i almost always lose"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S134",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "I’m not very good at tennis.",
+      "sentence_vi": "Tôi không giỏi tennis lắm.",
+      "sentence_ipa": "/aɪm nɑt ˈvɛri ɡʊd æt ˈtɛnɪs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/038_Track18.mp3",
+      "accepted_answers": [
+        "im not very good at tennis",
+        "i am not very good at tennis"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S135",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "But I usually win when we play chess.",
+      "sentence_vi": "Nhưng tôi thường thắng khi chơi cờ vua.",
+      "sentence_ipa": "/bət aɪ ˈjuʒuəli wɪn wɛn wi pleɪ ʧɛs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/039_Track18.mp3",
+      "accepted_answers": [
+        "but i usually win when we play chess"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S136",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "You guys play chess, too?",
+      "sentence_vi": "Hai bạn cũng chơi cờ vua à?",
+      "sentence_ipa": "/ju ɡaɪz pleɪ ʧɛs tu/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/040_Track18.mp3",
+      "accepted_answers": [
+        "you guys play chess too"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S137",
+      "lesson_id": "L008",
+      "order": 9999,
+      "sentence_en": "Oh, yeah. And I’m definitely a better chess player than he is!",
+      "sentence_vi": "Ồ, đúng vậy. Và tôi chắc chắn chơi cờ vua giỏi hơn anh ấy!",
+      "sentence_ipa": "/oʊ jæ ænd aɪm ˈdɛfənətli ə ˈbɛtər ʧɛs ˈpleɪər ðæn hi ɪz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_3/041_Track18.mp3",
+      "accepted_answers": [
+        "oh yeah and im definitely a better chess player than he is",
+        "oh yeah and i am definitely a better chess player than he is"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
+}
