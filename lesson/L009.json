@@ -1,0 +1,194 @@
+{
+  "updated_at": "2026-03-22T15:25:01.177Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L009",
+    "topic_id": "T01",
+    "lesson_title": "Alice Talks About Her Best Friend",
+    "difficulty": "medium",
+    "order": 1,
+    "is_active": true
+  },
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "sentence_id": "S138",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "Alice, how about you? Do you have a best friend?",
+      "sentence_vi": "Alice, còn bạn thì sao? Bạn có bạn thân không?",
+      "sentence_ipa": "/ˈælɪs haʊ əˈbaʊt ju du ju hæv ə bɛst frɛnd/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/043_Track18.mp3",
+      "accepted_answers": [
+        "alice how about you do you have a best friend"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S139",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "Yes, I do. Her name’s Anna.",
+      "sentence_vi": "Có. Tên cô ấy là Anna.",
+      "sentence_ipa": "/jɛs aɪ du hɝ neɪmz ˈænə/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/044_Track18.mp3",
+      "accepted_answers": [
+        "yes i do her names anna",
+        "yes i do her name is anna"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S140",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "When did you meet her?",
+      "sentence_vi": "Bạn gặp cô ấy khi nào?",
+      "sentence_ipa": "/wɛn dɪd ju mit hɝ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/045_Track18.mp3",
+      "accepted_answers": [
+        "when did you meet her"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S141",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "Let me see.",
+      "sentence_vi": "Để tôi nghĩ xem.",
+      "sentence_ipa": "/lɛt mi si/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/046_Track18.mp3",
+      "accepted_answers": [
+        "let me see"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S142",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "It was in our freshman year – so, three years ago.",
+      "sentence_vi": "Đó là năm nhất – tức là ba năm trước.",
+      "sentence_ipa": "/ɪt wəz ɪn aʊr ˈfrɛʃmən jɪr soʊ θri jɪrz əˈɡoʊ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/047_Track18.mp3",
+      "accepted_answers": [
+        "it was in our freshman year so three years ago"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S143",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "Did you meet in high school?",
+      "sentence_vi": "Hai bạn gặp nhau ở trung học à?",
+      "sentence_ipa": "/dɪd ju mit ɪn haɪ skul/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/048_Track18.mp3",
+      "accepted_answers": [
+        "did you meet in high school"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S144",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "No, freshman year of college. We’re on the same team.",
+      "sentence_vi": "Không, năm nhất đại học. Chúng tôi cùng một đội.",
+      "sentence_ipa": "/noʊ ˈfrɛʃmən jɪr əv ˈkɑlɪdʒ wɪr ɑn ðə seɪm tim/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/049_Track18.mp3",
+      "accepted_answers": [
+        "no freshman year of college were on the same team",
+        "no freshman year of college we are on the same team"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S144",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "So, what do you play?",
+      "sentence_vi": "Vậy bạn chơi môn gì?",
+      "sentence_ipa": "/soʊ wʌt də ju pleɪ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/050_Track18.mp3",
+      "accepted_answers": [
+        "so what do you play"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S144",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "Soccer. We’re both on our college soccer team.",
+      "sentence_vi": "Bóng đá. Cả hai chúng tôi đều ở trong đội bóng đá của trường.",
+      "sentence_ipa": "/ˈsɑkər wɪr boʊθ ɑn aʊr ˈkɑlɪdʒ ˈsɑkər tim/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/051_Track18.mp3",
+      "accepted_answers": [
+        "soccer were both on our college soccer team",
+        "soccer we are both on our college soccer team"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S144",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "Soccer’s a great game. Do you like to watch soccer, too?",
+      "sentence_vi": "Bóng đá là một môn tuyệt vời. Bạn cũng thích xem bóng đá chứ?",
+      "sentence_ipa": "/ˈsɑkərz ə ɡreɪt ɡeɪm du ju laɪk tə wɑʧ ˈsɑkər tu/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/052_Track18.mp3",
+      "accepted_answers": [
+        "soccers a great game do you like to watch soccer too",
+        "soccer is a great game do you like to watch soccer too"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S144",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "Well, not really. But Anna and I talk about all kinds of sports when we’re together.",
+      "sentence_vi": "Không hẳn. Nhưng Anna và tôi nói về nhiều môn thể thao khi ở cùng nhau.",
+      "sentence_ipa": "/wɛl nɑt ˈrɪli bət ˈænə ænd aɪ tɔk əˈbaʊt ɔl kaɪndz əv spɔrts wɛn wɪr təˈɡɛðər/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/053_Track18.mp3",
+      "accepted_answers": [
+        "well not really but anna and i talk about all kinds of sports when were together",
+        "well not really but anna and i talk about all kinds of sports when we are together"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S144",
+      "lesson_id": "L009",
+      "order": 9999,
+      "sentence_en": "OK, thanks, Alice. And good luck in your next game!",
+      "sentence_vi": "Được rồi, cảm ơn Alice. Chúc bạn may mắn trong trận đấu tới!",
+      "sentence_ipa": "/oʊˈkeɪ θæŋks ˈælɪs ænd ɡʊd lʌk ɪn jʊr nɛkst ɡeɪm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track18_4/054_Track18.mp3",
+      "accepted_answers": [
+        "ok thanks alice and good luck in your next game"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
+}
