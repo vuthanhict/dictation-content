@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-18T15:33:18.259Z",
-  "total_lessons": 5,
+  "updated_at": "2026-03-22T15:25:01.177Z",
+  "total_lessons": 9,
   "items": [
     {
       "lesson_id": "L001",
@@ -30,6 +30,38 @@
       "lesson_id": "L005",
       "topic_id": "T01",
       "lesson_title": "James Describes His Family",
+      "difficulty": "medium",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "lesson_id": "L006",
+      "topic_id": "T01",
+      "lesson_title": "Ron Talks About His Best Friend",
+      "difficulty": "medium",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "lesson_id": "L007",
+      "topic_id": "T01",
+      "lesson_title": "Sally Talks About Her Best Friend",
+      "difficulty": "medium",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "lesson_id": "L008",
+      "topic_id": "T01",
+      "lesson_title": "Ken Talks About His Best Friend",
+      "difficulty": "medium",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "lesson_id": "L009",
+      "topic_id": "T01",
+      "lesson_title": "Alice Talks About Her Best Friend",
       "difficulty": "medium",
       "order": 1,
       "is_active": true
