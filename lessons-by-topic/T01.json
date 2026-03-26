@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T15:25:01.177Z",
+  "updated_at": "2026-03-26T06:01:56.724Z",
   "topic": {
     "topic_id": "T01",
     "topic_name": "Let Talk 1",
@@ -7,7 +7,7 @@
     "order": 1,
     "is_active": true
   },
-  "total_lessons": 8,
+  "total_lessons": 9,
   "items": [
     {
       "lesson_id": "L001",
@@ -61,6 +61,14 @@
       "lesson_id": "L009",
       "topic_id": "T01",
       "lesson_title": "Alice Talks About Her Best Friend",
+      "difficulty": "medium",
+      "order": 1,
+      "is_active": true
+    },
+    {
+      "lesson_id": "L010",
+      "topic_id": "T01",
+      "lesson_title": "Shopping at the Airport",
       "difficulty": "medium",
       "order": 1,
       "is_active": true
