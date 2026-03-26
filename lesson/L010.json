@@ -1,0 +1,195 @@
+{
+  "updated_at": "2026-03-26T06:01:56.724Z",
+  "topic": {
+    "topic_id": "T01",
+    "topic_name": "Let Talk 1",
+    "description": "Let Talk 1 conversations",
+    "order": 1,
+    "is_active": true
+  },
+  "lesson": {
+    "lesson_id": "L010",
+    "topic_id": "T01",
+    "lesson_title": "Shopping at the Airport",
+    "difficulty": "medium",
+    "order": 1,
+    "is_active": true
+  },
+  "total_sentences": 12,
+  "sentences": [
+    {
+      "sentence_id": "S150",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "Oh, wow, look. It’s cheaper here than at home.",
+      "sentence_vi": "Ồ, nhìn này. Ở đây rẻ hơn ở nhà.",
+      "sentence_ipa": "/oʊ waʊ lʊk ɪts ˈʧipər hɪr ðæn æt hoʊm/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/001_Track20.mp3",
+      "accepted_answers": [
+        "oh wow look its cheaper here than at home",
+        "oh wow look it is cheaper here than at home"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S151",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "I don’t know. After you calculate the exchange rate, it may not be so cheap.",
+      "sentence_vi": "Tôi không biết. Sau khi tính tỷ giá, có thể không rẻ như vậy đâu.",
+      "sentence_ipa": "/aɪ doʊnt noʊ ˈæftər ju ˈkælkjəˌleɪt ði ɪksˈʧeɪndʒ reɪt ɪt meɪ nɑt bi soʊ ʧip/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/002_Track20.mp3",
+      "accepted_answers": [
+        "i dont know after you calculate the exchange rate it may not be so cheap",
+        "i do not know after you calculate the exchange rate it may not be so cheap"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S152",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "Really? Ah, yeah. I guess you’re right.",
+      "sentence_vi": "Thật à? À, đúng rồi. Tôi đoán bạn đúng.",
+      "sentence_ipa": "/ˈrɪli ɑ jæ aɪ ɡɛs jʊr raɪt/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/003_Track20.mp3",
+      "accepted_answers": [
+        "really yeah i guess youre right",
+        "really yeah i guess you are right"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S153",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "Oh, here, smell this.",
+      "sentence_vi": "Ồ, này, ngửi thử cái này đi.",
+      "sentence_ipa": "/oʊ hɪr smɛl ðɪs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/004_Track20.mp3",
+      "accepted_answers": [
+        "oh here smell this"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S154",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "That’s really nice. Is that for Rachel? We really should get her something special.",
+      "sentence_vi": "Thơm thật đấy. Cái này cho Rachel à? Chúng ta nên mua cho cô ấy thứ gì đó đặc biệt.",
+      "sentence_ipa": "/ðæts ˈrɪli naɪs ɪz ðæt fər ˈreɪʧəl wi ˈrɪli ʃʊd ɡɛt hɝ ˈsʌmθɪŋ ˈspɛʃəl/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/005_Track20.mp3",
+      "accepted_answers": [
+        "thats really nice is that for rachel we really should get her something special",
+        "that is really nice is that for rachel we really should get her something special"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S155",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "Yeah, she’ll like this, I’m sure. The bottle is pretty, too. Excuse me.",
+      "sentence_vi": "Ừ, cô ấy sẽ thích cái này, tôi chắc chắn. Cái chai cũng đẹp nữa. Xin lỗi.",
+      "sentence_ipa": "/jæ ʃil laɪk ðɪs aɪm ʃʊr ðə ˈbɑtəl ɪz ˈprɪti tu ɪkˈskjuz mi/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/006_Track20.mp3",
+      "accepted_answers": [
+        "yeah shell like this im sure the bottle is pretty too excuse me",
+        "yeah she will like this i am sure the bottle is pretty too excuse me"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S156",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "Yes?",
+      "sentence_vi": "Vâng?",
+      "sentence_ipa": "/jɛs/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/007_Track20.mp3",
+      "accepted_answers": [
+        "yes"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S157",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "We’d like this, please.",
+      "sentence_vi": "Chúng tôi muốn mua cái này.",
+      "sentence_ipa": "/wid laɪk ðɪs pliz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/008_Track20.mp3",
+      "accepted_answers": [
+        "wed like this please",
+        "we would like this please"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S158",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "All right. Is that all?",
+      "sentence_vi": "Được rồi. Chỉ vậy thôi à?",
+      "sentence_ipa": "/ɔl raɪt ɪz ðæt ɔl/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/009_Track20.mp3",
+      "accepted_answers": [
+        "all right is that all"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S159",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "Yeah.",
+      "sentence_vi": "Vâng.",
+      "sentence_ipa": "/jæ/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/010_Track20.mp3",
+      "accepted_answers": [
+        "yeah"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S160",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "OK. May I see your boarding pass, please?",
+      "sentence_vi": "Được rồi. Tôi có thể xem thẻ lên máy bay của bạn không?",
+      "sentence_ipa": "/oʊˈkeɪ meɪ aɪ si jʊr ˈbɔrdɪŋ pæs pliz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/011_Track20.mp3",
+      "accepted_answers": [
+        "ok may i see your boarding pass please"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    },
+    {
+      "sentence_id": "S161",
+      "lesson_id": "L010",
+      "order": 9999,
+      "sentence_en": "Oh. Yes, here it is.",
+      "sentence_vi": "Ồ, vâng. Đây ạ.",
+      "sentence_ipa": "/oʊ jɛs hɪr ɪt ɪz/",
+      "audio_url": "https://vuthanhict.github.io/dictation/audio/track20/012_Track20.mp3",
+      "accepted_answers": [
+        "oh yes here it is"
+      ],
+      "compare_mode": "flexible",
+      "is_active": true
+    }
+  ]
+}
